@@ -1,5 +1,5 @@
 import random
-antal_gissngar = 0
+
 n = random.randint(1, 100)
 print("Jag tänker på ett tal mellan 1 och 100, vilket?")
 
@@ -9,6 +9,8 @@ def ask_number():
     return as_number
 
 def mainloop():
+
+    global n
     while True:
 
         if as_number == n:
@@ -21,5 +23,6 @@ def mainloop():
         if as_number > n:
             print("Fel, mitt tal är lägre... testa igen!")
     return
+
 ask_number()
-mainloop()
+mainloop(as_number)
