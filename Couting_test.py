@@ -1,3 +1,4 @@
+#ta x antal nummer från användare, kunna avsluta och spotta ut totalsumma, antal input och genomsnittet.
 nummer = 0
 total = 0
 while True :
