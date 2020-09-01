@@ -1,18 +1,21 @@
 import random
-#impoterar randomfunktion, tillåter randint.
-n = random.randint(1, 20)
-print("I'm thinking of a number between 1 and 20. Guess which?")
+antal_gissngar = 0
+n = random.randint(1, 100)
+print("Jag tänker på ett tal mellan 1 och 100, vilket?")
 
-while True: # medans sann- fortsätter loopen i evighet.
-    text = input("Your guess: ")
+while True:
+    text = input("Din gissning: ")
     as_number = int(text)
 
     if as_number == n:
-        print("Correct!")
-    break
+        print("Korekt!")
+        antal_gissngar =antal_gissngar +1
+        break
 
     if as_number < n:
-        print("Wrong, my number is higher... Try again!")
+        print("Fel, mitt tal är högre... Testa igen!")
 
     if as_number > n:
-        print("Wrong, my number is lower... Try again!")
+        print("Fel, mitt tal är lägre... testa igen!")
+    antal_gissngar = antal_gissngar +1
+print("Du gissade" , antal_gissngar ,"antal gånger.")
