@@ -1,15 +1,15 @@
 import random
-
+#impoterar randomfunktion, tillåter randint.
 n = random.randint(1, 20)
 print("I'm thinking of a number between 1 and 20. Guess which?")
 
-while True:
+while True: # medans sann- fortsätter loopen i evighet.
     text = input("Your guess: ")
     as_number = int(text)
 
     if as_number == n:
         print("Correct!")
-    b   reak
+    break
 
     if as_number < n:
         print("Wrong, my number is higher... Try again!")
