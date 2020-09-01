@@ -8,11 +8,11 @@ def ask_number():
     as_number = int(text)
     return as_number
 
-def mainloop():
+def mainloop(n):
 
-    global n
+
     while True:
-
+        as_number = ask_number()
         if as_number == n:
          print("Korekt!")
          break
@@ -24,5 +24,4 @@ def mainloop():
             print("Fel, mitt tal är lägre... testa igen!")
     return
 
-ask_number()
-mainloop(as_number)
+mainloop(n)
