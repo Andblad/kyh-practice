@@ -12,5 +12,5 @@ while True :
         continue
     nummer = nummer + 1
     total = total + floatvar
-print("Här är totalen,antal input, och genomsnittet:")
+print("Här är total summan,antal input, och genomsnittet:")
 print(total,nummer, total/nummer)
