@@ -1,5 +1,6 @@
-#kolla om en  bokstav är vokal eller ej
-ch = input("Ange en bokstav för att se om de tär en vokal eller ej:")
-if ch = 0
-    break
-elif ch = 
+num1 = input("Ange ett tal:")
+num2 = input ("Ange ett till tal:")
+num1 = int(num1)
+num2 = int(num2)
+result = num1 + num2
+print(result," är summan av dina två tal")
