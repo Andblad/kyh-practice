@@ -32,12 +32,16 @@ def game(antal,max):
 
 if __name__ == '__main__':
 
+    try:
+        antal = int(input("Ange antal tal som du vill räkna på: "))
+    except ValueError:
+        print("Heltal ej anget. Sätter antal frågor till 3.")
+        antal=3
 
-    antal = int(input("Ange antal tal som du vill räkna på: "))
-
-
-    max = int(input("Ange största talet som skall andvändas:"))
-
-
+    try:
+        max = int(input("Ange största talet som skall andvändas:"))
+    except ValueError:
+        print("Heltal ej anget. Sätter största tal till 10.")
+        max = 10
 
     game(antal,max)
