@@ -20,14 +20,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56a934b4-8470-4716-8c94-2cc72f687c60" name="Default Changelist" comment="uppgift 10.1">
-      <change afterPath="$PROJECT_DIR$/ug_10_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/up_10_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uppgift10_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uppgift_10_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uppgift_10_2.py" afterDir="false" />
+    <list default="true" id="56a934b4-8470-4716-8c94-2cc72f687c60" name="Default Changelist" comment="uppgift ändring + tillägg i ug9.">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uppgift_10.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/uppgift_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/uppgift_9.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +59,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="ToolWindowCommit.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects1" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Programering" />
   </component>
   <component name="RunManager" selected="Python.uppgift_9 (1)">
     <configuration name="ug_10_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -220,7 +215,7 @@
       <workItem from="1598872802545" duration="7923000" />
       <workItem from="1599036550103" duration="11000" />
       <workItem from="1599036570990" duration="5242000" />
-      <workItem from="1599118378991" duration="6341000" />
+      <workItem from="1599118378991" duration="10066000" />
     </task>
     <task id="LOCAL−00001" summary="ändrad">
       <created>1598873706814</created>
@@ -306,7 +301,13 @@
       <option name="presentableId" value="LOCAL−00014" />
       <updated>1599121145893</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL−00015" summary="uppgift ändring + tillägg i ug9.">
+      <created>1599124958186</created>
+      <option name="number" value="LOCAL−00015" />
+      <option name="presentableId" value="LOCAL−00015" />
+      <updated>1599124958186</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -334,33 +335,34 @@
     <MESSAGE value="new settings for PyCharm" />
     <MESSAGE value="Ny uppgift, 9.3" />
     <MESSAGE value="uppgift 10.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="uppgift 10.1" />
+    <MESSAGE value="uppgift ändring + tillägg i ug9." />
+    <option name="LAST_COMMIT_MESSAGE" value="uppgift ändring + tillägg i ug9." />
   </component>
   <component name="WindowStateProjectService">
     <state x="524" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599120703968">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="524" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1599120703968" />
-    <state x="522" y="190" key="FileChooserDialogImpl" timestamp="1599118500908">
+    <state x="522" y="190" key="FileChooserDialogImpl" timestamp="1599131113779">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="522" y="190" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1599118500908" />
-    <state width="1493" height="208" key="GridCell.Tab.0.bottom" timestamp="1599123782328">
+    <state x="522" y="190" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1599131113779" />
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom" timestamp="1599131257367">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599123782328" />
-    <state width="1493" height="208" key="GridCell.Tab.0.center" timestamp="1599123782327">
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599131257367" />
+    <state width="1493" height="208" key="GridCell.Tab.0.center" timestamp="1599131257367">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1599123782327" />
-    <state width="1493" height="208" key="GridCell.Tab.0.left" timestamp="1599123782327">
+    <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1599131257367" />
+    <state width="1493" height="208" key="GridCell.Tab.0.left" timestamp="1599131257367">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1599123782327" />
-    <state width="1493" height="208" key="GridCell.Tab.0.right" timestamp="1599123782328">
+    <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1599131257367" />
+    <state width="1493" height="208" key="GridCell.Tab.0.right" timestamp="1599131257367">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1599123782328" />
+    <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1599131257367" />
     <state x="147" y="65" key="MergeDialog" timestamp="1599118410197">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -373,10 +375,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="593" y="115" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1599119629745" />
-    <state x="134" y="80" key="Vcs.Push.Dialog.v2" timestamp="1599121148633">
+    <state x="134" y="80" key="Vcs.Push.Dialog.v2" timestamp="1599124959306">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="134" y="80" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1599121148633" />
+    <state x="134" y="80" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1599124959306" />
     <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599118391898">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -388,7 +390,7 @@
     <SUITE FILE_PATH="coverage/kyh_practice$ug_10_4.coverage" NAME="ug_10_4 Coverage Results" MODIFIED="1599123764717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/kyh_practice$Whats_your_name__1_.coverage" NAME="Whats_your_name (1) Coverage Results" MODIFIED="1598880934384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/kyh_practice$Couting_test.coverage" NAME="Couting_test Coverage Results" MODIFIED="1599038536702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/kyh_practice$uppgift_9__1_.coverage" NAME="uppgift_9 (1) Coverage Results" MODIFIED="1599123782322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/kyh_practice$uppgift_9__1_.coverage" NAME="uppgift_9 (1) Coverage Results" MODIFIED="1599131245784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/kyh_practice$main.coverage" NAME="main Coverage Results" MODIFIED="1598876201418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/kyh_practice$Whats_your_name__2_.coverage" NAME="Whats_your_name (2) Coverage Results" MODIFIED="1599117542816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects1" />
     <SUITE FILE_PATH="coverage/kyh_practice$uppgift_10_2.coverage" NAME="uppgift_10_2 Coverage Results" MODIFIED="1599123084767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
