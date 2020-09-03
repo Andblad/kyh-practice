@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-<<<<<<< HEAD
-      <module fileurl="file://$PROJECT_DIR$/../.idea/PycharmProjects.iml" filepath="$PROJECT_DIR$/../.idea/PycharmProjects.iml" />
       <module fileurl="file://$USER_HOME$/PycharmProjects1/.idea/PycharmProjects1.iml" filepath="$USER_HOME$/PycharmProjects1/.idea/PycharmProjects1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/kyh-practice.iml" filepath="$PROJECT_DIR$/.idea/kyh-practice.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../kyh-quizz/.idea/kyh-quizz.iml" filepath="$PROJECT_DIR$/../kyh-quizz/.idea/kyh-quizz.iml" />
-=======
-      <module fileurl="file://$PROJECT_DIR$/.idea/PycharmProjects1.iml" filepath="$PROJECT_DIR$/.idea/PycharmProjects1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../PycharmProjects/kyh-quizz/.idea/kyh-quizz.iml" filepath="$PROJECT_DIR$/../PycharmProjects/kyh-quizz/.idea/kyh-quizz.iml" />
->>>>>>> origin/master
     </modules>
   </component>
 </project>
