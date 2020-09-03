@@ -1,17 +1,15 @@
-#ta x antal nummer från användare, kunna avsluta och spotta ut totalsumma, antal input och genomsnittet.
-nummer = 0
-total = 0
-while True :
-    print("För att avsluta, ange avslut")
-    x = input ("Ange ett nummer:")
-    if x == "avslut":
-        break
-    try:
-        floatvar = float(x)
-    except:
-        print("ogiltlig input")
-        continue
-    nummer = nummer + 1
-    total = total + floatvar
-print("Här är total summan,antal input, och genomsnittet:")
-print(total,nummer, total/nummer)
+note=input("Please enter a dollarbill, and I will tell what US President is on that note.")
+
+note=int(note)
+
+if note == '$1':
+    print(" ")
+if note == '$2'
+
+if note == '$5'
+
+if note == '$10'
+
+if note == '$50'
+
+if note == '$100'
