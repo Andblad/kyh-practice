@@ -1,14 +1,14 @@
 import random
 
-def game():
+def game(antal,max):
     correct_answers = 0
 
 
 
-    for i in range(antal, max    ):
+    for i in range(antal):
 
-        a = random.randint(1, 10)
-        b = random.randint(1, 10)
+        a = random.randint(1, max)
+        b = random.randint(1, max)
         answer = input(f"{a}+{b}")
         number = int(answer)
 
@@ -25,4 +25,4 @@ def game():
 if __name__ == '__main__':
     antal = int(input("Ange antal tal som du vill räkna på: "))
     max = int(input("Ange största talet som skall andvändas:"))
-    game()
+    game(antal,max)

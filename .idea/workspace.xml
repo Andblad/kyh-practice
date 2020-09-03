@@ -20,9 +20,14 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56a934b4-8470-4716-8c94-2cc72f687c60" name="Default Changelist" comment="Ny uppgift, 9.3">
-      <change afterPath="$PROJECT_DIR$/uppgift_10.py" afterDir="false" />
+    <list default="true" id="56a934b4-8470-4716-8c94-2cc72f687c60" name="Default Changelist" comment="uppgift 10.1">
+      <change afterPath="$PROJECT_DIR$/ug_10_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/up_10_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uppgift10_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uppgift_10_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uppgift_10_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uppgift_10.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/uppgift_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/uppgift_9.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,51 +67,7 @@
     <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects1" />
   </component>
   <component name="RunManager" selected="Python.uppgift_9 (1)">
-    <configuration name="Couting_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="kyh-practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Couting_test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Whats_your_name (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="kyh-practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Whats_your_name.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Whats_your_name (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ug_10_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PycharmProjects1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,12 +75,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects1" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects1/Whats_your_name.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ug_10_4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,8 +89,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="kyh-practice" />
+    <configuration name="uppgift10_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -137,11 +98,55 @@
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/uppgift10_3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="uppgift_10_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/uppgift_10_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="uppgift_10_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PycharmProjects1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/uppgift_10_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -197,10 +202,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.uppgift_9 (1)" />
-        <item itemvalue="Python.Whats_your_name (2)" />
-        <item itemvalue="Python.Couting_test" />
-        <item itemvalue="Python.Whats_your_name (1)" />
-        <item itemvalue="Python.main" />
+        <item itemvalue="Python.ug_10_4" />
+        <item itemvalue="Python.uppgift_10_2" />
+        <item itemvalue="Python.uppgift10_3" />
+        <item itemvalue="Python.uppgift_10_1" />
       </list>
     </recent_temporary>
   </component>
@@ -215,7 +220,7 @@
       <workItem from="1598872802545" duration="7923000" />
       <workItem from="1599036550103" duration="11000" />
       <workItem from="1599036570990" duration="5242000" />
-      <workItem from="1599118378991" duration="2572000" />
+      <workItem from="1599118378991" duration="6341000" />
     </task>
     <task id="LOCAL−00001" summary="ändrad">
       <created>1598873706814</created>
@@ -295,7 +300,13 @@
       <option name="presentableId" value="LOCAL−00013" />
       <updated>1599120114449</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL−00014" summary="uppgift 10.1">
+      <created>1599121145893</created>
+      <option name="number" value="LOCAL−00014" />
+      <option name="presentableId" value="LOCAL−00014" />
+      <updated>1599121145893</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -322,7 +333,8 @@
     <MESSAGE value="Beskriving." />
     <MESSAGE value="new settings for PyCharm" />
     <MESSAGE value="Ny uppgift, 9.3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ny uppgift, 9.3" />
+    <MESSAGE value="uppgift 10.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="uppgift 10.1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="524" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599120703968">
@@ -333,22 +345,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="522" y="190" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1599118500908" />
-    <state width="1493" height="208" key="GridCell.Tab.0.bottom" timestamp="1599120935988">
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom" timestamp="1599123782328">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599120935988" />
-    <state width="1493" height="208" key="GridCell.Tab.0.center" timestamp="1599120935987">
+    <state width="1493" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599123782328" />
+    <state width="1493" height="208" key="GridCell.Tab.0.center" timestamp="1599123782327">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1599120935987" />
-    <state width="1493" height="208" key="GridCell.Tab.0.left" timestamp="1599120935987">
+    <state width="1493" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1599123782327" />
+    <state width="1493" height="208" key="GridCell.Tab.0.left" timestamp="1599123782327">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1599120935987" />
-    <state width="1493" height="208" key="GridCell.Tab.0.right" timestamp="1599120935988">
+    <state width="1493" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1599123782327" />
+    <state width="1493" height="208" key="GridCell.Tab.0.right" timestamp="1599123782328">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1599120935987" />
+    <state width="1493" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1599123782328" />
     <state x="147" y="65" key="MergeDialog" timestamp="1599118410197">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -361,21 +373,25 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="593" y="115" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1599119629745" />
-    <state x="134" y="80" key="Vcs.Push.Dialog.v2" timestamp="1599120196290">
+    <state x="134" y="80" key="Vcs.Push.Dialog.v2" timestamp="1599121148633">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="134" y="80" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1599120196290" />
+    <state x="134" y="80" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1599121148633" />
     <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599118391898">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1599118391898" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/kyh_practice$uppgift10_3.coverage" NAME="uppgift10_3 Coverage Results" MODIFIED="1599122079145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/kyh_practice$uppgift_10_1.coverage" NAME="uppgift_10_1 Coverage Results" MODIFIED="1599121704563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/kyh_practice$ug_10_4.coverage" NAME="ug_10_4 Coverage Results" MODIFIED="1599123764717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/kyh_practice$Whats_your_name__1_.coverage" NAME="Whats_your_name (1) Coverage Results" MODIFIED="1598880934384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/kyh_practice$Couting_test.coverage" NAME="Couting_test Coverage Results" MODIFIED="1599038536702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/kyh_practice$uppgift_9__1_.coverage" NAME="uppgift_9 (1) Coverage Results" MODIFIED="1599120935979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/kyh_practice$uppgift_9__1_.coverage" NAME="uppgift_9 (1) Coverage Results" MODIFIED="1599123782322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/kyh_practice$main.coverage" NAME="main Coverage Results" MODIFIED="1598876201418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/kyh_practice$Whats_your_name__2_.coverage" NAME="Whats_your_name (2) Coverage Results" MODIFIED="1599117542816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects1" />
+    <SUITE FILE_PATH="coverage/kyh_practice$uppgift_10_2.coverage" NAME="uppgift_10_2 Coverage Results" MODIFIED="1599123084767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/kyh_practice$uppgift_9.coverage" NAME="uppgift_9 Coverage Results" MODIFIED="1599119123024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects1" />
   </component>
 </project>
