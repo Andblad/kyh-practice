@@ -5,7 +5,7 @@ def game():
 
 
 
-    for i in range(antal):
+    for i in range(antal, max    ):
 
         a = random.randint(1, 10)
         b = random.randint(1, 10)
@@ -24,5 +24,5 @@ def game():
 
 if __name__ == '__main__':
     antal = int(input("Ange antal tal som du vill räkna på: "))
-
+    max = int(input("Ange största talet som skall andvändas:"))
     game()
