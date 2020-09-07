@@ -21,7 +21,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="56a934b4-8470-4716-8c94-2cc72f687c60" name="Default Changelist" comment="change/uppdate to up13">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/uppgift13.py" beforeDir="false" afterPath="$PROJECT_DIR$/uppgift13.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -233,7 +232,7 @@
       <workItem from="1598872802545" duration="7923000" />
       <workItem from="1599036550103" duration="11000" />
       <workItem from="1599036570990" duration="5242000" />
-      <workItem from="1599118378991" duration="29316000" />
+      <workItem from="1599118378991" duration="29645000" />
     </task>
     <task id="LOCAL−00001" summary="ändrad">
       <created>1598873706814</created>
@@ -373,7 +372,13 @@
       <option name="presentableId" value="LOCAL−00023" />
       <updated>1599480337317</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL−00024" summary="change/uppdate to up13">
+      <created>1599488678516</created>
+      <option name="number" value="LOCAL−00024" />
+      <option name="presentableId" value="LOCAL−00024" />
+      <updated>1599488678516</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -419,22 +424,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="522" y="190" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1599131113779" />
-    <state width="1493" height="205" key="GridCell.Tab.0.bottom" timestamp="1599488647874">
+    <state width="1493" height="205" key="GridCell.Tab.0.bottom" timestamp="1599488980324">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="205" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599488647874" />
-    <state width="1493" height="205" key="GridCell.Tab.0.center" timestamp="1599488647874">
+    <state width="1493" height="205" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599488980324" />
+    <state width="1493" height="205" key="GridCell.Tab.0.center" timestamp="1599488980324">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="205" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1599488647874" />
-    <state width="1493" height="205" key="GridCell.Tab.0.left" timestamp="1599488647874">
+    <state width="1493" height="205" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1599488980324" />
+    <state width="1493" height="205" key="GridCell.Tab.0.left" timestamp="1599488980324">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="205" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1599488647874" />
-    <state width="1493" height="205" key="GridCell.Tab.0.right" timestamp="1599488647874">
+    <state width="1493" height="205" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1599488980324" />
+    <state width="1493" height="205" key="GridCell.Tab.0.right" timestamp="1599488980324">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="205" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1599488647874" />
+    <state width="1493" height="205" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1599488980324" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1599480190803">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -489,7 +494,7 @@
     <SUITE FILE_PATH="coverage/kyh_practice$uppgift_9__1_.coverage" NAME="uppgift_9 (1) Coverage Results" MODIFIED="1599132662125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/kyh_practice$main.coverage" NAME="main Coverage Results" MODIFIED="1598876201418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/kyh_practice$extra3.coverage" NAME="extra3 Coverage Results" MODIFIED="1599478074865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects1" />
-    <SUITE FILE_PATH="coverage/kyh_practice$uppgift13.coverage" NAME="uppgift13 Coverage Results" MODIFIED="1599488647869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/kyh_practice$uppgift13.coverage" NAME="uppgift13 Coverage Results" MODIFIED="1599488980320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/kyh_practice$up_10_5.coverage" NAME="up_10_5 Coverage Results" MODIFIED="1599466352554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
