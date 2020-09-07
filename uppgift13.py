@@ -1,19 +1,22 @@
 import random
-
+sak = ['lampa','tandborste','kudde','bord','lampa']
 väg = 'beställas på posten','laddas ner','köpas på ica','lånas på bilioteket','hämtas på din vårdcentral'
-nat = ['svensk','tysk','dansk','norman','finnländare']
+nat = ['svenskar','tyskar','danskar','norrmän','finnländare']
 sjukdom = ['corronavirus','vattkoppor','röda hund','förkylning','HIV']
 koms = ['komma nära','chatta med','åka bil med','äta middiga med','bråka med']
+namn = ['Bill Gates', 'Beatrice','Oscar','Veronica','Gustav Vasa']
+org = ['Svenska institutet för inre säkerhet, SIIS', 'Folkhälsomyndigheten,FHM','Gothia Towers Svenska Mässan AB','Volvo lastvagnar','Googel']
+ort = ['Ludvika', 'Staffanstorp', 'Allecante','Östra Strande, Halmstad','Stockholm']
+tyck = ['Vi','Du','Jag','Ni','Dom']
+gora = ['ät en trevlig middag iställt','spela spel','strunta i att göra nått liknade','dansa limbo','låta någon med bättre mandat ta i den frågan kanske']
 
+def main():
+    x = random.randint(0,4)
+    y = random.randint(0 ,4)
 
-
-
-def main(väg,nat,sjukdom,koms,):
-    x = random.randint(1, 4)
-
-    print(f"En app som kan {väg[x]} ska varna {nat[x]} som någon {random.choices(koms)} som smittats av {random.choices(sjukdom)} .")
-    print(f"- Du tycker att vi i Helsingland borde strunta i att göra något liknande, säger Jonathan, chef för Svenska institutetför inre säkerhet, SIIS.")
+    print(f"En {random.choice(sak)} som kan {random.choice(väg)} ska varna {random.choice(nat)} som  {random.choice(koms)} någon som smittats av {random.choice(sjukdom)} .")
+    print(f"- {random.choice(tyck)} tycker att vi i {random.choice(ort)} borde {random.choice(gora)}, säger {random.choice(namn)}, chef för {random.choice(org)}.")
 
 
 if __name__ == '__main__':
-    main(väg,nat,sjukdom,koms,)
+    main()
