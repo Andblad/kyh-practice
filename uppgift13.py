@@ -5,14 +5,15 @@ nat = ['svensk','tysk','dansk','norman','finnländare']
 sjukdom = ['corronavirus','vattkoppor','röda hund','förkylning','HIV']
 koms = ['komma nära','chatta med','åka bil med','äta middiga med','bråka med']
 
-x = random.randint(1,2,3,4,5)
 
 
-def main(väg,nat,sjukdom,koms):
 
-    print(f"En app som kan {random.choices(väg)} ska varna {random.choices(nat)} som någon {random.choices(koms)} som smittats av {random.choices(sjukdom)} .")
+def main(väg,nat,sjukdom,koms,):
+    x = random.randint(1, 4)
+
+    print(f"En app som kan {väg[x]} ska varna {nat[x]} som någon {random.choices(koms)} som smittats av {random.choices(sjukdom)} .")
     print(f"- Du tycker att vi i Helsingland borde strunta i att göra något liknande, säger Jonathan, chef för Svenska institutetför inre säkerhet, SIIS.")
 
 
 if __name__ == '__main__':
-    main(väg,nat,sjukdom,koms)
+    main(väg,nat,sjukdom,koms,)
