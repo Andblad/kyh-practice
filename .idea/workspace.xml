@@ -21,8 +21,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="56a934b4-8470-4716-8c94-2cc72f687c60" name="Default Changelist" comment="change/uppdate to up13">
-      <change afterPath="$PROJECT_DIR$/uppgift14.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uppgift14.py" beforeDir="false" afterPath="$PROJECT_DIR$/uppgift14.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -233,7 +232,7 @@
       <workItem from="1598872802545" duration="7923000" />
       <workItem from="1599036550103" duration="11000" />
       <workItem from="1599036570990" duration="5242000" />
-      <workItem from="1599118378991" duration="33941000" />
+      <workItem from="1599118378991" duration="34311000" />
     </task>
     <task id="LOCAL−00001" summary="ändrad">
       <created>1598873706814</created>
@@ -397,7 +396,13 @@
       <option name="presentableId" value="LOCAL−00027" />
       <updated>1599548511586</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL−00028" summary="change/uppdate to up13">
+      <created>1599553146171</created>
+      <option name="number" value="LOCAL−00028" />
+      <option name="presentableId" value="LOCAL−00028" />
+      <updated>1599553146171</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
