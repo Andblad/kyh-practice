@@ -10,6 +10,7 @@ def run():
     rest = []
     animal = []
     for item in basket:
+        item = item.strip()
         if item in CARS:
             cars.append(item)
         elif item in FRUITS:
