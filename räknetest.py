@@ -28,7 +28,7 @@ def run():
 
     if answer == "2":
         result = subtract(a, b)
-        ''
+
     if answer == "3":
         result = multiply(a, b)
 
