@@ -40,11 +40,14 @@ def add():
     return
 
 
-# def erase():
-#     print(', '.join(tasks))
-#     delete = input('Vad vill du ta bort? Välj nummer för aktivitet du vill ta bort')
-#     for action in delete:
-#         if action == f'{0, len(tasks)}':
+def erase():
+    print(', '.join(tasks))
+    delete = input('Vad vill du ta bort?')
+    if delete in tasks:
+        tasks.remove(delete)
+        return
+    else:
+        erase()
 
 
 
