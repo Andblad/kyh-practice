@@ -50,7 +50,5 @@ def erase():
         erase()
 
 
-
-
 if __name__ == '__main__':
     options()
