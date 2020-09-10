@@ -11,7 +11,7 @@ people = {
 def main():
     hända = input("1:Slå upp nummer.\n2:Redigera lista.\nVad vill du göra:")
     if hända == '1':
-        #print(f"Det finns {len(people)} personer i telefonlistan")
+        #print(f"Det finns {len(people)} personer i telefonlistan")# Skriver ut antla personer i listan.
         vem = input('Vem vill du ringa?')
         if vem not in people:
             print('Sorry hörru, vet ej vem detta är. Har endast VIP i min katalog')

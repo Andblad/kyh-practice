@@ -20,10 +20,11 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56a934b4-8470-4716-8c94-2cc72f687c60" name="Default Changelist" comment=" uppdate quiz-1.py/new code.">
-      <change afterPath="$PROJECT_DIR$/data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uppgift19.py" afterDir="false" />
+    <list default="true" id="56a934b4-8470-4716-8c94-2cc72f687c60" name="Default Changelist" comment="new upg-19">
+      <change afterPath="$PROJECT_DIR$/../kyh-quizz/iter2_s.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uppgift18.py" beforeDir="false" afterPath="$PROJECT_DIR$/uppgift18.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kyh-quizz/quiz-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../kyh-quizz/quiz-1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +53,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../kyh-quizz" />
   </component>
   <component name="GithubPullRequestsUISettings">
     <option name="hiddenUrls">
@@ -80,7 +81,7 @@
       <recent name="C:\Users\tobbe\PycharmProjects1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.uppgift19">
+  <component name="RunManager" selected="Python.quiz-1">
     <configuration name="quiz-1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="kyh-quizz" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -215,8 +216,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.uppgift19" />
         <item itemvalue="Python.quiz-1" />
+        <item itemvalue="Python.uppgift19" />
         <item itemvalue="Python.uppgift18" />
         <item itemvalue="Python.uppgift17" />
         <item itemvalue="Python.uppgift15" />
@@ -237,7 +238,7 @@
       <workItem from="1599118378991" duration="70081000" />
       <workItem from="1599667663614" duration="161000" />
       <workItem from="1599667833270" duration="4581000" />
-      <workItem from="1599719380354" duration="10599000" />
+      <workItem from="1599719380354" duration="13017000" />
     </task>
     <task id="LOCAL−00001" summary="ändrad">
       <created>1598873706814</created>
@@ -467,7 +468,13 @@
       <option name="presentableId" value="LOCAL−00038" />
       <updated>1599736216972</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL−00039" summary="new upg-19">
+      <created>1599737634738</created>
+      <option name="number" value="LOCAL−00039" />
+      <option name="presentableId" value="LOCAL−00039" />
+      <updated>1599737634738</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -486,7 +493,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ändrad" />
     <MESSAGE value="change" />
     <MESSAGE value="change + nytt projekt" />
     <MESSAGE value="nytt projekt" />
@@ -511,7 +517,8 @@
     <MESSAGE value=" uppdate quiz-1 uppgift 17, uppdate up18." />
     <MESSAGE value=" uppdate up18." />
     <MESSAGE value=" uppdate quiz-1.py/new code." />
-    <option name="LAST_COMMIT_MESSAGE" value=" uppdate quiz-1.py/new code." />
+    <MESSAGE value="new upg-19" />
+    <option name="LAST_COMMIT_MESSAGE" value="new upg-19" />
   </component>
   <component name="WindowStateProjectService">
     <state x="524" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599639028325">
@@ -526,38 +533,38 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="522" y="190" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1599561185140" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1599737482676">
+    <state width="1493" height="259" key="GridCell.Tab.0.bottom" timestamp="1599745112202">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599737482676" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1599737482676">
+    <state width="1493" height="259" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599745112202" />
+    <state width="1493" height="259" key="GridCell.Tab.0.center" timestamp="1599745112202">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1599737482676" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1599737482675">
+    <state width="1493" height="259" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1599745112202" />
+    <state width="1493" height="259" key="GridCell.Tab.0.left" timestamp="1599745112202">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1599737482675" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1599737482676">
+    <state width="1493" height="259" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1599745112202" />
+    <state width="1493" height="259" key="GridCell.Tab.0.right" timestamp="1599745112202">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1599737482676" />
-    <state width="1493" height="210" key="GridCell.Tab.1.bottom" timestamp="1599737483289">
+    <state width="1493" height="259" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1599745112202" />
+    <state width="1493" height="359" key="GridCell.Tab.1.bottom" timestamp="1599740829806">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599737483289" />
-    <state width="1493" height="210" key="GridCell.Tab.1.center" timestamp="1599737483289">
+    <state width="1493" height="359" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599740829806" />
+    <state width="1493" height="359" key="GridCell.Tab.1.center" timestamp="1599740829806">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1599737483289" />
-    <state width="1493" height="210" key="GridCell.Tab.1.left" timestamp="1599737483288">
+    <state width="1493" height="359" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1599740829806" />
+    <state width="1493" height="359" key="GridCell.Tab.1.left" timestamp="1599740829806">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1599737483288" />
-    <state width="1493" height="210" key="GridCell.Tab.1.right" timestamp="1599737483289">
+    <state width="1493" height="359" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1599740829806" />
+    <state width="1493" height="359" key="GridCell.Tab.1.right" timestamp="1599740829806">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1599737483289" />
+    <state width="1493" height="359" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1599740829806" />
     <state x="147" y="65" key="MergeDialog" timestamp="1599118410197">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -591,24 +598,13 @@
     </state>
     <state x="46" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1599736821602" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/uppgift19.py</url>
-          <line>6</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/kyh_practice$uppgift17.coverage" NAME="uppgift17 Coverage Results" MODIFIED="1599659898107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/kyh_practice$Whats_your_name__1_.coverage" NAME="Whats_your_name (1) Coverage Results" MODIFIED="1598880934384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/kyh_practice$Whats_your_name__2_.coverage" NAME="Whats_your_name (2) Coverage Results" MODIFIED="1599117542816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects1" />
     <SUITE FILE_PATH="coverage/kyh_practice$uppgift12.coverage" NAME="uppgift12 Coverage Results" MODIFIED="1599469743143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/kyh_practice$uppgift_10_2.coverage" NAME="uppgift_10_2 Coverage Results" MODIFIED="1599123084767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/kyh_practice$quiz_1.coverage" NAME="quiz-1 Coverage Results" MODIFIED="1599736748144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../kyh-quizz" />
+    <SUITE FILE_PATH="coverage/kyh_practice$quiz_1.coverage" NAME="quiz-1 Coverage Results" MODIFIED="1599744993402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../kyh-quizz" />
     <SUITE FILE_PATH="coverage/kyh_practice$uppgift16.coverage" NAME="uppgift16 Coverage Results" MODIFIED="1599569300231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/kyh_practice$uppgift_9.coverage" NAME="uppgift_9 Coverage Results" MODIFIED="1599119123024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects1" />
     <SUITE FILE_PATH="coverage/kyh_practice$uppgift10_3.coverage" NAME="uppgift10_3 Coverage Results" MODIFIED="1599122079145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
