@@ -4,6 +4,10 @@
     <expand>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
       <path>
@@ -12,22 +16,27 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </select>
+    <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56a934b4-8470-4716-8c94-2cc72f687c60" name="Default Changelist" comment="update quiz-1.py" />
+    <list default="true" id="3f0383ed-d5d8-4c5f-9a0f-a70d6a92ec41" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snake.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uppgift21.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PycharmProjects1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kyh-practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/kyh-practice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/uppgift18.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
-    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -36,47 +45,24 @@
       </list>
     </option>
   </component>
-  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
-    <envs>
-      <env key="FLASK_APP" value="app" />
-    </envs>
-    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
-    <option name="myEnvs">
-      <map>
-        <entry key="FLASK_APP" value="app" />
-      </map>
-    </option>
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../kyh-quizz" />
-  </component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="hiddenUrls">
-      <set>
-        <option value="https://github.com/Andblad/kyh-practice" />
-      </set>
-    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JupyterTrust" id="6691b835-01d6-4392-bf45-74f806ea1ef1" />
-  <component name="ProjectId" id="1grVfYREqhSsoFN8TcCPeAnhX82" />
+  <component name="ProjectId" id="1hUl28BGoPKEEySkaYTKKKRs5B8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="ToolWindowCommit.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../kyh-quizz" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\tobbe\PycharmProjects1" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Python.quiz-1">
+  <component name="RunManager" selected="Python.uppgift21">
     <configuration name="quiz-1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="kyh-quizz" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -99,8 +85,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="uppgift15" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PycharmProjects1" />
+    <configuration name="snake" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="kyh-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -108,99 +94,33 @@
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/uppgift15.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="uppgift16" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PycharmProjects1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/uppgift16.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="uppgift17" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PycharmProjects1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/uppgift17.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="uppgift19" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Programering" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\tobbe\AppData\Local\Programs\Python\Python38-32\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/uppgift19.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="uppgift_9" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="PycharmProjects1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects1/uppgift_9.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/snake.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="uppgift21" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="kyh-practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/uppgift21.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -211,289 +131,22 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.uppgift21" />
         <item itemvalue="Python.quiz-1" />
-        <item itemvalue="Python.uppgift19" />
-        <item itemvalue="Python.uppgift18" />
-        <item itemvalue="Python.uppgift17" />
-        <item itemvalue="Python.uppgift15" />
+        <item itemvalue="Python.snake" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="56a934b4-8470-4716-8c94-2cc72f687c60" name="Default Changelist" comment="" />
-      <created>1598872801119</created>
+      <changelist id="3f0383ed-d5d8-4c5f-9a0f-a70d6a92ec41" name="Default Changelist" comment="" />
+      <created>1600073343570</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1598872801119</updated>
-      <workItem from="1598872802545" duration="7923000" />
-      <workItem from="1599036550103" duration="11000" />
-      <workItem from="1599036570990" duration="5242000" />
-      <workItem from="1599118378991" duration="70081000" />
-      <workItem from="1599667663614" duration="161000" />
-      <workItem from="1599667833270" duration="4581000" />
-      <workItem from="1599719380354" duration="14661000" />
+      <updated>1600073343570</updated>
+      <workItem from="1600073345624" duration="8344000" />
     </task>
-    <task id="LOCAL−00001" summary="ändrad">
-      <created>1598873706814</created>
-      <option name="number" value="LOCAL−00001" />
-      <option name="presentableId" value="LOCAL−00001" />
-      <updated>1598873706814</updated>
-    </task>
-    <task id="LOCAL−00002" summary="ändrad">
-      <created>1598874362567</created>
-      <option name="number" value="LOCAL−00002" />
-      <option name="presentableId" value="LOCAL−00002" />
-      <updated>1598874362567</updated>
-    </task>
-    <task id="LOCAL−00003" summary="change">
-      <created>1598875380230</created>
-      <option name="number" value="LOCAL−00003" />
-      <option name="presentableId" value="LOCAL−00003" />
-      <updated>1598875380230</updated>
-    </task>
-    <task id="LOCAL−00004" summary="change + nytt projekt">
-      <created>1598875817909</created>
-      <option name="number" value="LOCAL−00004" />
-      <option name="presentableId" value="LOCAL−00004" />
-      <updated>1598875817909</updated>
-    </task>
-    <task id="LOCAL−00005" summary="change + nytt projekt">
-      <created>1598879601989</created>
-      <option name="number" value="LOCAL−00005" />
-      <option name="presentableId" value="LOCAL−00005" />
-      <updated>1598879601989</updated>
-    </task>
-    <task id="LOCAL−00006" summary="nytt projekt">
-      <created>1598881113612</created>
-      <option name="number" value="LOCAL−00006" />
-      <option name="presentableId" value="LOCAL−00006" />
-      <updated>1598881113612</updated>
-    </task>
-    <task id="LOCAL−00007" summary="omskrivning.">
-      <created>1598943708652</created>
-      <option name="number" value="LOCAL−00007" />
-      <option name="presentableId" value="LOCAL−00007" />
-      <updated>1598943708652</updated>
-    </task>
-    <task id="LOCAL−00008" summary="Beskriving.">
-      <created>1598944220021</created>
-      <option name="number" value="LOCAL−00008" />
-      <option name="presentableId" value="LOCAL−00008" />
-      <updated>1598944220021</updated>
-    </task>
-    <task id="LOCAL−00009" summary="Beskriving.">
-      <created>1599118189806</created>
-      <option name="number" value="LOCAL−00009" />
-      <option name="presentableId" value="LOCAL−00009" />
-      <updated>1599118189806</updated>
-    </task>
-    <task id="LOCAL−00010" summary="new settings for PyCharm">
-      <created>1599118320970</created>
-      <option name="number" value="LOCAL−00010" />
-      <option name="presentableId" value="LOCAL−00010" />
-      <updated>1599118320970</updated>
-    </task>
-    <task id="LOCAL−00011" summary="new settings for PyCharm">
-      <created>1599118641952</created>
-      <option name="number" value="LOCAL−00011" />
-      <option name="presentableId" value="LOCAL−00011" />
-      <updated>1599118641952</updated>
-    </task>
-    <task id="LOCAL−00012" summary="Ny uppgift, 9.3">
-      <created>1599119922050</created>
-      <option name="number" value="LOCAL−00012" />
-      <option name="presentableId" value="LOCAL−00012" />
-      <updated>1599119922050</updated>
-    </task>
-    <task id="LOCAL−00013" summary="Ny uppgift, 9.3">
-      <created>1599120114449</created>
-      <option name="number" value="LOCAL−00013" />
-      <option name="presentableId" value="LOCAL−00013" />
-      <updated>1599120114449</updated>
-    </task>
-    <task id="LOCAL−00014" summary="uppgift 10.1">
-      <created>1599121145893</created>
-      <option name="number" value="LOCAL−00014" />
-      <option name="presentableId" value="LOCAL−00014" />
-      <updated>1599121145893</updated>
-    </task>
-    <task id="LOCAL−00015" summary="uppgift ändring + tillägg i ug9.">
-      <created>1599124958186</created>
-      <option name="number" value="LOCAL−00015" />
-      <option name="presentableId" value="LOCAL−00015" />
-      <updated>1599124958186</updated>
-    </task>
-    <task id="LOCAL−00016" summary="uppgift ändring + tillägg i ug9.">
-      <created>1599131524640</created>
-      <option name="number" value="LOCAL−00016" />
-      <option name="presentableId" value="LOCAL−00016" />
-      <updated>1599131524641</updated>
-    </task>
-    <task id="LOCAL−00017" summary="uppgift ändring + tillägg i ug9.">
-      <created>1599133604864</created>
-      <option name="number" value="LOCAL−00017" />
-      <option name="presentableId" value="LOCAL−00017" />
-      <updated>1599133604864</updated>
-    </task>
-    <task id="LOCAL−00018" summary="uppgift ändring + tillägg i ug10_5">
-      <created>1599202845330</created>
-      <option name="number" value="LOCAL−00018" />
-      <option name="presentableId" value="LOCAL−00018" />
-      <updated>1599202845330</updated>
-    </task>
-    <task id="LOCAL−00019" summary="ny uppgift.">
-      <created>1599467160328</created>
-      <option name="number" value="LOCAL−00019" />
-      <option name="presentableId" value="LOCAL−00019" />
-      <updated>1599467160328</updated>
-    </task>
-    <task id="LOCAL−00020" summary="update to up12(.4)">
-      <created>1599469835474</created>
-      <option name="number" value="LOCAL−00020" />
-      <option name="presentableId" value="LOCAL−00020" />
-      <updated>1599469835474</updated>
-    </task>
-    <task id="LOCAL−00021" summary="new instalfile">
-      <created>1599472048233</created>
-      <option name="number" value="LOCAL−00021" />
-      <option name="presentableId" value="LOCAL−00021" />
-      <updated>1599472048233</updated>
-    </task>
-    <task id="LOCAL−00022" summary="new uppgift 13">
-      <created>1599479855305</created>
-      <option name="number" value="LOCAL−00022" />
-      <option name="presentableId" value="LOCAL−00022" />
-      <updated>1599479855305</updated>
-    </task>
-    <task id="LOCAL−00023" summary="change/uppdate to up13">
-      <created>1599480337317</created>
-      <option name="number" value="LOCAL−00023" />
-      <option name="presentableId" value="LOCAL−00023" />
-      <updated>1599480337317</updated>
-    </task>
-    <task id="LOCAL−00024" summary="change/uppdate to up13">
-      <created>1599488678516</created>
-      <option name="number" value="LOCAL−00024" />
-      <option name="presentableId" value="LOCAL−00024" />
-      <updated>1599488678516</updated>
-    </task>
-    <task id="LOCAL−00025" summary="change/uppdate to up13">
-      <created>1599489005579</created>
-      <option name="number" value="LOCAL−00025" />
-      <option name="presentableId" value="LOCAL−00025" />
-      <updated>1599489005579</updated>
-    </task>
-    <task id="LOCAL−00026" summary="change/uppdate to up13">
-      <created>1599548507187</created>
-      <option name="number" value="LOCAL−00026" />
-      <option name="presentableId" value="LOCAL−00026" />
-      <updated>1599548507187</updated>
-    </task>
-    <task id="LOCAL−00027" summary="change/uppdate to up13">
-      <created>1599548511586</created>
-      <option name="number" value="LOCAL−00027" />
-      <option name="presentableId" value="LOCAL−00027" />
-      <updated>1599548511586</updated>
-    </task>
-    <task id="LOCAL−00028" summary="change/uppdate to up13">
-      <created>1599553146171</created>
-      <option name="number" value="LOCAL−00028" />
-      <option name="presentableId" value="LOCAL−00028" />
-      <updated>1599553146171</updated>
-    </task>
-    <task id="LOCAL−00029" summary="new uppgift(14),changes to up14">
-      <created>1599553965993</created>
-      <option name="number" value="LOCAL−00029" />
-      <option name="presentableId" value="LOCAL−00029" />
-      <updated>1599553965993</updated>
-    </task>
-    <task id="LOCAL−00030" summary="nytt program">
-      <created>1599568456133</created>
-      <option name="number" value="LOCAL−00030" />
-      <option name="presentableId" value="LOCAL−00030" />
-      <updated>1599568456133</updated>
-    </task>
-    <task id="LOCAL−00031" summary="update .xml">
-      <created>1599568683761</created>
-      <option name="number" value="LOCAL−00031" />
-      <option name="presentableId" value="LOCAL−00031" />
-      <updated>1599568683761</updated>
-    </task>
-    <task id="LOCAL−00032" summary="uppdate/uppgift15 korr/uppgift 16korr / creat uppgift 17">
-      <created>1599659315972</created>
-      <option name="number" value="LOCAL−00032" />
-      <option name="presentableId" value="LOCAL−00032" />
-      <updated>1599659315972</updated>
-    </task>
-    <task id="LOCAL−00033" summary="creat uppgift 17.txt + change">
-      <created>1599660015147</created>
-      <option name="number" value="LOCAL−00033" />
-      <option name="presentableId" value="LOCAL−00033" />
-      <updated>1599660015147</updated>
-    </task>
-    <task id="LOCAL−00034" summary="creat uppgift 17.txt + change">
-      <created>1599660020249</created>
-      <option name="number" value="LOCAL−00034" />
-      <option name="presentableId" value="LOCAL−00034" />
-      <updated>1599660020249</updated>
-    </task>
-    <task id="LOCAL−00035" summary="update to quiz-1.py">
-      <created>1599667636644</created>
-      <option name="number" value="LOCAL−00035" />
-      <option name="presentableId" value="LOCAL−00035" />
-      <updated>1599667636644</updated>
-    </task>
-    <task id="LOCAL−00036" summary=" uppdate quiz-1 uppgift 17, uppdate up18.">
-      <created>1599727012659</created>
-      <option name="number" value="LOCAL−00036" />
-      <option name="presentableId" value="LOCAL−00036" />
-      <updated>1599727012659</updated>
-    </task>
-    <task id="LOCAL−00037" summary=" uppdate up18.">
-      <created>1599730123086</created>
-      <option name="number" value="LOCAL−00037" />
-      <option name="presentableId" value="LOCAL−00037" />
-      <updated>1599730123086</updated>
-    </task>
-    <task id="LOCAL−00038" summary=" uppdate quiz-1.py/new code.">
-      <created>1599736216972</created>
-      <option name="number" value="LOCAL−00038" />
-      <option name="presentableId" value="LOCAL−00038" />
-      <updated>1599736216972</updated>
-    </task>
-    <task id="LOCAL−00039" summary="new upg-19">
-      <created>1599737634738</created>
-      <option name="number" value="LOCAL−00039" />
-      <option name="presentableId" value="LOCAL−00039" />
-      <updated>1599737634738</updated>
-    </task>
-    <task id="LOCAL−00040" summary="uppdate up18, quiz-1.py">
-      <created>1599745154732</created>
-      <option name="number" value="LOCAL−00040" />
-      <option name="presentableId" value="LOCAL−00040" />
-      <updated>1599745154732</updated>
-    </task>
-    <task id="LOCAL−00041" summary="update quiz-1.py">
-      <created>1599745415542</created>
-      <option name="number" value="LOCAL−00041" />
-      <option name="presentableId" value="LOCAL−00041" />
-      <updated>1599745415542</updated>
-    </task>
-    <task id="LOCAL−00042" summary="update quiz-1.py">
-      <created>1599745566032</created>
-      <option name="number" value="LOCAL−00042" />
-      <option name="presentableId" value="LOCAL−00042" />
-      <updated>1599745566032</updated>
-    </task>
-    <task id="LOCAL−00043" summary="update quiz-1.py">
-      <created>1599760401111</created>
-      <option name="number" value="LOCAL−00043" />
-      <option name="presentableId" value="LOCAL−00043" />
-      <updated>1599760401111</updated>
-    </task>
-    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -509,136 +162,52 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="nytt projekt" />
-    <MESSAGE value="omskrivning." />
-    <MESSAGE value="Beskriving." />
-    <MESSAGE value="new settings for PyCharm" />
-    <MESSAGE value="Ny uppgift, 9.3" />
-    <MESSAGE value="uppgift 10.1" />
-    <MESSAGE value="uppgift ändring + tillägg i ug9." />
-    <MESSAGE value="uppgift ändring + tillägg i ug10_5" />
-    <MESSAGE value="ny uppgift." />
-    <MESSAGE value="update to up12(.4)" />
-    <MESSAGE value="new instalfile" />
-    <MESSAGE value="new uppgift 13" />
-    <MESSAGE value="change/uppdate to up13" />
-    <MESSAGE value="new uppgift(14),changes to up14" />
-    <MESSAGE value="nytt program" />
-    <MESSAGE value="update .xml" />
-    <MESSAGE value="uppdate/uppgift15 korr/uppgift 16korr / creat uppgift 17" />
-    <MESSAGE value="creat uppgift 17.txt + change" />
-    <MESSAGE value="update to quiz-1.py" />
-    <MESSAGE value=" uppdate quiz-1 uppgift 17, uppdate up18." />
-    <MESSAGE value=" uppdate up18." />
-    <MESSAGE value=" uppdate quiz-1.py/new code." />
-    <MESSAGE value="new upg-19" />
-    <MESSAGE value="uppdate up18, quiz-1.py" />
-    <MESSAGE value="update quiz-1.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="update quiz-1.py" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="524" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599639028325">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1600080120293">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="524" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1599639028325" />
-    <state x="0" y="0" key="DiffContextDialog" timestamp="1599554020231">
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1600080120293" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1600081826638">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="0" y="0" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1599554020231" />
-    <state x="522" y="190" key="FileChooserDialogImpl" timestamp="1599561185140">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600081826638" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1600081826638">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="522" y="190" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1599561185140" />
-    <state width="1493" height="259" key="GridCell.Tab.0.bottom" timestamp="1599745509168">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600081826638" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1600081826638">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="259" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599745509168" />
-    <state width="1493" height="259" key="GridCell.Tab.0.center" timestamp="1599745509168">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600081826638" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1600081826638">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="259" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1599745509168" />
-    <state width="1493" height="259" key="GridCell.Tab.0.left" timestamp="1599745509168">
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600081826638" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1600079978289">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="259" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1599745509168" />
-    <state width="1493" height="259" key="GridCell.Tab.0.right" timestamp="1599745509168">
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600079978289" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1600079978289">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="259" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1599745509168" />
-    <state width="1493" height="359" key="GridCell.Tab.1.bottom" timestamp="1599740829806">
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1600079978289" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1600079978289">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="359" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599740829806" />
-    <state width="1493" height="359" key="GridCell.Tab.1.center" timestamp="1599740829806">
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1600079978289" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1600079978289">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="359" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1599740829806" />
-    <state width="1493" height="359" key="GridCell.Tab.1.left" timestamp="1599740829806">
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1600079978289" />
+    <state x="410" y="41" key="SettingsEditor" timestamp="1600073663264">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="359" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1599740829806" />
-    <state width="1493" height="359" key="GridCell.Tab.1.right" timestamp="1599740829806">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1493" height="359" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1599740829806" />
-    <state x="147" y="65" key="MergeDialog" timestamp="1599118410197">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="147" y="65" key="MergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1599118410197" />
-    <state x="407" y="174" key="MultipleFileMergeDialog" timestamp="1599118411781">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="407" y="174" key="MultipleFileMergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1599118411781" />
-    <state x="593" y="115" key="RollbackChangesDialog" timestamp="1599676830121">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="593" y="115" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1599676830121" />
-    <state x="134" y="80" width="814" height="617" key="Vcs.Push.Dialog.v2" timestamp="1599820716777">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="134" y="80" width="814" height="617" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1599820716777" />
-    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599820718881">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1599820718881" />
-    <state x="320" y="141" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1599132563618">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="320" y="141" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1599132563618" />
-    <state x="469" y="23" width="579" height="801" key="find.popup" timestamp="1599667775762">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="469" y="23" width="579" height="801" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1599667775762" />
-    <state x="46" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1599736821602">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="46" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1599736821602" />
+    <state x="410" y="41" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1600073663264" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/kyh_practice$uppgift17.coverage" NAME="uppgift17 Coverage Results" MODIFIED="1599659898107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/kyh_practice$Whats_your_name__1_.coverage" NAME="Whats_your_name (1) Coverage Results" MODIFIED="1598880934384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/kyh_practice$Whats_your_name__2_.coverage" NAME="Whats_your_name (2) Coverage Results" MODIFIED="1599117542816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects1" />
-    <SUITE FILE_PATH="coverage/kyh_practice$uppgift12.coverage" NAME="uppgift12 Coverage Results" MODIFIED="1599469743143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/kyh_practice$uppgift_10_2.coverage" NAME="uppgift_10_2 Coverage Results" MODIFIED="1599123084767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/kyh_practice$quiz_1.coverage" NAME="quiz-1 Coverage Results" MODIFIED="1599745509162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../kyh-quizz" />
-    <SUITE FILE_PATH="coverage/kyh_practice$uppgift16.coverage" NAME="uppgift16 Coverage Results" MODIFIED="1599569300231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/kyh_practice$uppgift_9.coverage" NAME="uppgift_9 Coverage Results" MODIFIED="1599119123024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects1" />
-    <SUITE FILE_PATH="coverage/kyh_practice$uppgift10_3.coverage" NAME="uppgift10_3 Coverage Results" MODIFIED="1599122079145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/kyh_practice$uppgift_10_1.coverage" NAME="uppgift_10_1 Coverage Results" MODIFIED="1599121704563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/kyh_practice$ug_10_4.coverage" NAME="ug_10_4 Coverage Results" MODIFIED="1599133686797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/kyh_practice$Couting_test.coverage" NAME="Couting_test Coverage Results" MODIFIED="1599038536702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/kyh_practice$uppgift_9__1_.coverage" NAME="uppgift_9 (1) Coverage Results" MODIFIED="1599132662125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/kyh_practice$uppgift19.coverage" NAME="uppgift19 Coverage Results" MODIFIED="1599737482532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/kyh_practice$main.coverage" NAME="main Coverage Results" MODIFIED="1598876201418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/kyh_practice$uppgift13.coverage" NAME="uppgift13 Coverage Results" MODIFIED="1599550730108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/kyh_practice$extra3.coverage" NAME="extra3 Coverage Results" MODIFIED="1599556388305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects1" />
-    <SUITE FILE_PATH="coverage/kyh_practice$uppgift15.coverage" NAME="uppgift15 Coverage Results" MODIFIED="1599651908758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/kyh_practice$up_10_5.coverage" NAME="up_10_5 Coverage Results" MODIFIED="1599466352554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/kyh_practice$extra4.coverage" NAME="extra4 Coverage Results" MODIFIED="1599564709720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects1" />
-    <SUITE FILE_PATH="coverage/kyh_practice$uppgift18.coverage" NAME="uppgift18 Coverage Results" MODIFIED="1599728445945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/kyh_practice$uppgift14.coverage" NAME="uppgift14 Coverage Results" MODIFIED="1599553755635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/kyh_practice$uppgift21.coverage" NAME="uppgift21 Coverage Results" MODIFIED="1600081826628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/kyh_practice$quiz_1.coverage" NAME="quiz-1 Coverage Results" MODIFIED="1600081429727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../kyh-quizz" />
+    <SUITE FILE_PATH="coverage/kyh_practice$snake.coverage" NAME="snake Coverage Results" MODIFIED="1600075688741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
