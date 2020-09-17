@@ -19,9 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f0383ed-d5d8-4c5f-9a0f-a70d6a92ec41" name="Default Changelist" comment="New file">
+    <list default="true" id="3f0383ed-d5d8-4c5f-9a0f-a70d6a92ec41" name="Default Changelist" comment="Uppdates to uppgift27.py">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uppgift27.py" beforeDir="false" afterPath="$PROJECT_DIR$/uppgift27.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -197,7 +196,7 @@
       <updated>1600073343570</updated>
       <workItem from="1600073345624" duration="30396000" />
       <workItem from="1600244091756" duration="5948000" />
-      <workItem from="1600326858814" duration="5241000" />
+      <workItem from="1600326858814" duration="6335000" />
     </task>
     <task id="LOCAL−00001" summary="updates to stuff, new files">
       <created>1600083662746</created>
@@ -229,7 +228,13 @@
       <option name="presentableId" value="LOCAL−00005" />
       <updated>1600331277981</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL−00006" summary="Uppdates to uppgift27.py">
+      <created>1600332378450</created>
+      <option name="number" value="LOCAL−00006" />
+      <option name="presentableId" value="LOCAL−00006" />
+      <updated>1600332378450</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -251,7 +256,8 @@
     <MESSAGE value="updates to stuff, new files" />
     <MESSAGE value=" new files" />
     <MESSAGE value="New file" />
-    <option name="LAST_COMMIT_MESSAGE" value="New file" />
+    <MESSAGE value="Uppdates to uppgift27.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Uppdates to uppgift27.py" />
   </component>
   <component name="WindowStateProjectService">
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1600080120293">
@@ -298,10 +304,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="410" y="41" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1600157307115" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1600327738763">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1600332849718">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1600327738763" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1600332849718" />
     <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600171634552">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
