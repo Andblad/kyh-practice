@@ -3,10 +3,14 @@ from pathlib import Path
 from pprint import pprint
 
 p = Path('uppgift27.json')
-fil = p.read_text()
-
+text = p.read_text(encoding='utf8')
+fil = json.loads(text)
 #print(f"{fil['what']}")
 
 #pprint([len(fil)])
+
 for elem in fil:
-    print(f"{elem['what'],elem['value']},{elem['unit']}")
+    if elem['rightalign'] == True:
+        print(f"{elem['what']:>25}{elem['value']:>12}{elem['unit']}")
+    else:
+        print(f"{elem['what']:<25}{elem['value']:>12}{elem['unit']}")
