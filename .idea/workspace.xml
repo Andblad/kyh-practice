@@ -20,7 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f0383ed-d5d8-4c5f-9a0f-a70d6a92ec41" name="Default Changelist" comment="Uppdates to uppgift27.py">
+      <change afterPath="$PROJECT_DIR$/conversions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_conversion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simplest-possible-pytest-unittest/.idea/simplest-possible-pytest-unittest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kyh-practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/kyh-practice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,126 +70,101 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../kyh-quizz" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.uppgift27">
-    <configuration name="uppgift22" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="kyh-practice" />
+  <component name="RunManager" selected="Python tests.pytest for test_conversion.test_farenhite_to_cellsius">
+    <configuration name="pytest for test_1.test_1" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="simplest-possible-pytest-unittest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../simplest-possible-pytest-unittest" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/uppgift22.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_1.test_1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="uppgift24" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_conversion.test_cm_to_m" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="kyh-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/uppgift24.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_conversion.test_cm_to_m&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="uppgift25-py" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_conversion.test_conversion_from_meters_to_mm" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="kyh-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/uppgift25-py.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_conversion.test_conversion_from_meters_to_mm&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="uppgift26" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_conversion.test_farenhite_to_cellsius" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="kyh-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/uppgift26.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_conversion.test_farenhite_to_cellsius&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="uppgift27" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_conversion.test_mm_to_m" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="kyh-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/uppgift27.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_conversion.test_mm_to_m&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.uppgift27" />
-        <item itemvalue="Python.uppgift26" />
-        <item itemvalue="Python.uppgift24" />
-        <item itemvalue="Python.uppgift25-py" />
-        <item itemvalue="Python.uppgift22" />
+        <item itemvalue="Python tests.pytest for test_conversion.test_farenhite_to_cellsius" />
+        <item itemvalue="Python tests.pytest for test_conversion.test_mm_to_m" />
+        <item itemvalue="Python tests.pytest for test_conversion.test_cm_to_m" />
+        <item itemvalue="Python tests.pytest for test_conversion.test_conversion_from_meters_to_mm" />
+        <item itemvalue="Python tests.pytest for test_1.test_1" />
       </list>
     </recent_temporary>
   </component>
@@ -196,7 +178,7 @@
       <updated>1600073343570</updated>
       <workItem from="1600073345624" duration="30396000" />
       <workItem from="1600244091756" duration="5948000" />
-      <workItem from="1600326858814" duration="6335000" />
+      <workItem from="1600326858814" duration="15183000" />
     </task>
     <task id="LOCAL−00001" summary="updates to stuff, new files">
       <created>1600083662746</created>
@@ -234,7 +216,13 @@
       <option name="presentableId" value="LOCAL−00006" />
       <updated>1600332378450</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL−00007" summary="Uppdates to uppgift27.py">
+      <created>1600333493691</created>
+      <option name="number" value="LOCAL−00007" />
+      <option name="presentableId" value="LOCAL−00007" />
+      <updated>1600333493691</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -260,54 +248,58 @@
     <option name="LAST_COMMIT_MESSAGE" value="Uppdates to uppgift27.py" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600341004642">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1600341004642" />
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1600080120293">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1600080120293" />
-    <state width="785" height="212" key="GridCell.Tab.0.bottom" timestamp="1600332201399">
+    <state width="1493" height="342" key="GridCell.Tab.0.bottom" timestamp="1600348035604">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="785" height="212" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600332201399" />
-    <state width="785" height="212" key="GridCell.Tab.0.center" timestamp="1600332201398">
+    <state width="1493" height="342" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600348035604" />
+    <state width="1493" height="342" key="GridCell.Tab.0.center" timestamp="1600348035604">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="785" height="212" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600332201398" />
-    <state width="785" height="212" key="GridCell.Tab.0.left" timestamp="1600332201398">
+    <state width="1493" height="342" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600348035604" />
+    <state width="1493" height="342" key="GridCell.Tab.0.left" timestamp="1600348035604">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="785" height="212" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600332201398" />
-    <state width="785" height="212" key="GridCell.Tab.0.right" timestamp="1600332201398">
+    <state width="1493" height="342" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600348035604" />
+    <state width="1493" height="342" key="GridCell.Tab.0.right" timestamp="1600348035604">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="785" height="212" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600332201398" />
-    <state width="1493" height="260" key="GridCell.Tab.1.bottom" timestamp="1600329130813">
+    <state width="1493" height="342" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600348035604" />
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom" timestamp="1600335514257">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="260" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600329130813" />
-    <state width="1493" height="260" key="GridCell.Tab.1.center" timestamp="1600329130813">
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600335514257" />
+    <state width="1493" height="260" key="GridCell.Tab.1.center" timestamp="1600335514257">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="260" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1600329130813" />
-    <state width="1493" height="260" key="GridCell.Tab.1.left" timestamp="1600329130813">
+    <state width="1493" height="260" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1600335514257" />
+    <state width="1493" height="260" key="GridCell.Tab.1.left" timestamp="1600335514257">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="260" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1600329130813" />
-    <state width="1493" height="260" key="GridCell.Tab.1.right" timestamp="1600329130813">
+    <state width="1493" height="260" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1600335514257" />
+    <state width="1493" height="260" key="GridCell.Tab.1.right" timestamp="1600335514257">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="260" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1600329130813" />
+    <state width="1493" height="260" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1600335514257" />
     <state x="560" y="115" key="RollbackChangesDialog" timestamp="1600171640099">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="560" y="115" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1600171640099" />
-    <state x="410" y="41" key="SettingsEditor" timestamp="1600157307115">
+    <state x="232" y="42" key="SettingsEditor" timestamp="1600341023576">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="410" y="41" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1600157307115" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1600332849718">
+    <state x="232" y="42" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1600341023576" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1600333495155">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1600332849718" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1600333495154" />
     <state x="586" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600171634552">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -329,13 +321,20 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/kyh_practice$uppgift22.coverage" NAME="uppgift22 Coverage Results" MODIFIED="1600087938015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/kyh_practice$conversions.coverage" NAME="conversions Coverage Results" MODIFIED="1600334822876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/kyh_practice$uppgift24.coverage" NAME="uppgift24 Coverage Results" MODIFIED="1600245775152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/kyh_practice$pytest_for_test_conversion_test_mm_to_m.coverage" NAME="pytest for test_conversion.test_mm_to_m Coverage Results" MODIFIED="1600342287220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/kyh_practice$pytest_for_test_conversion_test_farenhite_to_cellsius.coverage" NAME="pytest for test_conversion.test_farenhite_to_cellsius Coverage Results" MODIFIED="1600348035591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/kyh_practice$uppgift26.coverage" NAME="uppgift26 Coverage Results" MODIFIED="1600328876143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/kyh_practice$uppgift25_py.coverage" NAME="uppgift25-py Coverage Results" MODIFIED="1600171014231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/kyh_practice$uppgift21.coverage" NAME="uppgift21 Coverage Results" MODIFIED="1600081826628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/kyh_practice$uppgift27.coverage" NAME="uppgift27 Coverage Results" MODIFIED="1600332201390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/kyh_practice$quiz_1.coverage" NAME="quiz-1 Coverage Results" MODIFIED="1600081429727" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../kyh-quizz" />
+    <SUITE FILE_PATH="coverage/kyh_practice$pytest_for_test_conversion_test_conversion_from_meters_to_mm.coverage" NAME="pytest for test_conversion.test_conversion_from_meters_to_mm Coverage Results" MODIFIED="1600342243251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/kyh_practice$uppgift22.coverage" NAME="uppgift22 Coverage Results" MODIFIED="1600087938015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/kyh_practice$pytest_for_test_1_test_1.coverage" NAME="pytest for test_1.test_1 Coverage Results" MODIFIED="1600341026137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../simplest-possible-pytest-unittest" />
+    <SUITE FILE_PATH="coverage/kyh_practice$uppgift27.coverage" NAME="uppgift27 Coverage Results" MODIFIED="1600333972686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/kyh_practice$pytest_for_test_conversion_test_cm_to_m.coverage" NAME="pytest for test_conversion.test_cm_to_m Coverage Results" MODIFIED="1600342246345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/kyh_practice$snake.coverage" NAME="snake Coverage Results" MODIFIED="1600075688741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/kyh_practice$test_conversion.coverage" NAME="test_conversion Coverage Results" MODIFIED="1600335943378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/kyh-practice.iml" filepath="$PROJECT_DIR$/.idea/kyh-practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/../kyh-quizz/.idea/kyh-quizz.iml" filepath="$PROJECT_DIR$/../kyh-quizz/.idea/kyh-quizz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../simplest-possible-pytest-unittest/.idea/simplest-possible-pytest-unittest.iml" filepath="$PROJECT_DIR$/../simplest-possible-pytest-unittest/.idea/simplest-possible-pytest-unittest.iml" />
     </modules>
   </component>
 </project>
