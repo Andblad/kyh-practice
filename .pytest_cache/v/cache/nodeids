@@ -1,0 +1,6 @@
+[
+  "test_conversion.py::test_cm_to_m",
+  "test_conversion.py::test_conversion_from_meters_to_mm",
+  "test_conversion.py::test_farenhite_to_cellsius",
+  "test_conversion.py::test_mm_to_m"
+]

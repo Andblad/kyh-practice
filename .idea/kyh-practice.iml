@@ -7,7 +7,6 @@
     <orderEntry type="jdk" jdkName="Python 3.8 (kyh-practice)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="kyh-quizz" />
-    <orderEntry type="module" module-name="simplest-possible-pytest-unittest" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="pytest" />

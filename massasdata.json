@@ -1,0 +1,5006 @@
+{
+  "year": 2020,
+  "month": 8,
+  "entries": [
+    {
+      "item": 1,
+      "spec": 100,
+      "total": 169.5
+    },
+    {
+      "item": 1,
+      "spec": 29,
+      "total": 260.7
+    },
+    {
+      "item": 1,
+      "spec": 50,
+      "total": 481.0
+    },
+    {
+      "item": 1,
+      "spec": 125,
+      "total": 372.0
+    },
+    {
+      "item": 1,
+      "spec": 40,
+      "total": 496.7
+    },
+    {
+      "item": 1,
+      "spec": 86,
+      "total": 220.70000000000002
+    },
+    {
+      "item": 1,
+      "spec": 196,
+      "total": 66.6
+    },
+    {
+      "item": 1,
+      "spec": 110,
+      "total": 77.2
+    },
+    {
+      "item": 1,
+      "spec": 32,
+      "total": 369.9
+    },
+    {
+      "item": 1,
+      "spec": 37,
+      "total": 243.4
+    },
+    {
+      "item": 1,
+      "spec": 178,
+      "total": 517.1
+    },
+    {
+      "item": 1,
+      "spec": 42,
+      "total": 260.9
+    },
+    {
+      "item": 1,
+      "spec": 153,
+      "total": 71.0
+    },
+    {
+      "item": 1,
+      "spec": 110,
+      "total": 99.80000000000001
+    },
+    {
+      "item": 1,
+      "spec": 104,
+      "total": 170.4
+    },
+    {
+      "item": 1,
+      "spec": 196,
+      "total": 80.7
+    },
+    {
+      "item": 1,
+      "spec": 22,
+      "total": 350.7
+    },
+    {
+      "item": 1,
+      "spec": 71,
+      "total": 232.4
+    },
+    {
+      "item": 1,
+      "spec": 86,
+      "total": 77.7
+    },
+    {
+      "item": 1,
+      "spec": 73,
+      "total": 93.5
+    },
+    {
+      "item": 1,
+      "spec": 161,
+      "total": 153.6
+    },
+    {
+      "item": 1,
+      "spec": 182,
+      "total": 324.4
+    },
+    {
+      "item": 1,
+      "spec": 215,
+      "total": 193.10000000000002
+    },
+    {
+      "item": 1,
+      "spec": 36,
+      "total": 369.8
+    },
+    {
+      "item": 1,
+      "spec": 217,
+      "total": 450.2
+    },
+    {
+      "item": 1,
+      "spec": 67,
+      "total": 185.4
+    },
+    {
+      "item": 1,
+      "spec": 185,
+      "total": 307.4
+    },
+    {
+      "item": 1,
+      "spec": 19,
+      "total": 366.4
+    },
+    {
+      "item": 1,
+      "spec": 193,
+      "total": 390.5
+    },
+    {
+      "item": 1,
+      "spec": 46,
+      "total": 79.7
+    },
+    {
+      "item": 1,
+      "spec": 67,
+      "total": 184.5
+    },
+    {
+      "item": 1,
+      "spec": 81,
+      "total": 480.5
+    },
+    {
+      "item": 1,
+      "spec": 86,
+      "total": 210.50000000000003
+    },
+    {
+      "item": 1,
+      "spec": 56,
+      "total": 494.5
+    },
+    {
+      "item": 1,
+      "spec": 148,
+      "total": 332.2
+    },
+    {
+      "item": 1,
+      "spec": 142,
+      "total": 231.3
+    },
+    {
+      "item": 1,
+      "spec": 117,
+      "total": 458.5
+    },
+    {
+      "item": 1,
+      "spec": 45,
+      "total": 537.5
+    },
+    {
+      "item": 1,
+      "spec": 83,
+      "total": 258.4
+    },
+    {
+      "item": 1,
+      "spec": 91,
+      "total": 358.7
+    },
+    {
+      "item": 1,
+      "spec": 220,
+      "total": 484.8
+    },
+    {
+      "item": 1,
+      "spec": 153,
+      "total": 179.9
+    },
+    {
+      "item": 1,
+      "spec": 151,
+      "total": 459.1
+    },
+    {
+      "item": 1,
+      "spec": 41,
+      "total": 333.7
+    },
+    {
+      "item": 1,
+      "spec": 188,
+      "total": 388.2
+    },
+    {
+      "item": 1,
+      "spec": 23,
+      "total": 403.0
+    },
+    {
+      "item": 1,
+      "spec": 29,
+      "total": 346.3
+    },
+    {
+      "item": 1,
+      "spec": 122,
+      "total": 374.6
+    },
+    {
+      "item": 1,
+      "spec": 188,
+      "total": 261.6
+    },
+    {
+      "item": 1,
+      "spec": 205,
+      "total": 494.0
+    },
+    {
+      "item": 1,
+      "spec": 106,
+      "total": 275.0
+    },
+    {
+      "item": 1,
+      "spec": 108,
+      "total": 113.5
+    },
+    {
+      "item": 1,
+      "spec": 122,
+      "total": 523.4
+    },
+    {
+      "item": 1,
+      "spec": 34,
+      "total": 332.09999999999997
+    },
+    {
+      "item": 1,
+      "spec": 207,
+      "total": 486.6
+    },
+    {
+      "item": 1,
+      "spec": 39,
+      "total": 57.7
+    },
+    {
+      "item": 1,
+      "spec": 187,
+      "total": 454.6
+    },
+    {
+      "item": 1,
+      "spec": 126,
+      "total": 436.6
+    },
+    {
+      "item": 1,
+      "spec": 157,
+      "total": 503.4
+    },
+    {
+      "item": 1,
+      "spec": 117,
+      "total": 227.20000000000002
+    },
+    {
+      "item": 1,
+      "spec": 129,
+      "total": 309.4
+    },
+    {
+      "item": 1,
+      "spec": 115,
+      "total": 386.2
+    },
+    {
+      "item": 1,
+      "spec": 159,
+      "total": 441.3
+    },
+    {
+      "item": 1,
+      "spec": 97,
+      "total": 406.1
+    },
+    {
+      "item": 1,
+      "spec": 170,
+      "total": 383.3
+    },
+    {
+      "item": 1,
+      "spec": 206,
+      "total": 439.2
+    },
+    {
+      "item": 1,
+      "spec": 48,
+      "total": 187.8
+    },
+    {
+      "item": 1,
+      "spec": 28,
+      "total": 341.7
+    },
+    {
+      "item": 1,
+      "spec": 192,
+      "total": 211.70000000000002
+    },
+    {
+      "item": 1,
+      "spec": 145,
+      "total": 486.6
+    },
+    {
+      "item": 1,
+      "spec": 17,
+      "total": 463.2
+    },
+    {
+      "item": 1,
+      "spec": 28,
+      "total": 109.19999999999999
+    },
+    {
+      "item": 1,
+      "spec": 176,
+      "total": 75.2
+    },
+    {
+      "item": 1,
+      "spec": 41,
+      "total": 173.3
+    },
+    {
+      "item": 1,
+      "spec": 56,
+      "total": 527.0
+    },
+    {
+      "item": 1,
+      "spec": 171,
+      "total": 382.6
+    },
+    {
+      "item": 1,
+      "spec": 180,
+      "total": 514.1
+    },
+    {
+      "item": 1,
+      "spec": 62,
+      "total": 97.80000000000001
+    },
+    {
+      "item": 1,
+      "spec": 45,
+      "total": 82.2
+    },
+    {
+      "item": 1,
+      "spec": 145,
+      "total": 480.1
+    },
+    {
+      "item": 1,
+      "spec": 67,
+      "total": 357.2
+    },
+    {
+      "item": 1,
+      "spec": 152,
+      "total": 135.9
+    },
+    {
+      "item": 1,
+      "spec": 210,
+      "total": 426.2
+    },
+    {
+      "item": 1,
+      "spec": 182,
+      "total": 435.2
+    },
+    {
+      "item": 1,
+      "spec": 210,
+      "total": 412.5
+    },
+    {
+      "item": 1,
+      "spec": 191,
+      "total": 213.8
+    },
+    {
+      "item": 1,
+      "spec": 135,
+      "total": 375.4
+    },
+    {
+      "item": 1,
+      "spec": 81,
+      "total": 456.1
+    },
+    {
+      "item": 1,
+      "spec": 113,
+      "total": 461.6
+    },
+    {
+      "item": 1,
+      "spec": 22,
+      "total": 87.0
+    },
+    {
+      "item": 1,
+      "spec": 166,
+      "total": 78.9
+    },
+    {
+      "item": 1,
+      "spec": 69,
+      "total": 530.0
+    },
+    {
+      "item": 1,
+      "spec": 86,
+      "total": 167.3
+    },
+    {
+      "item": 1,
+      "spec": 98,
+      "total": 121.80000000000001
+    },
+    {
+      "item": 1,
+      "spec": 183,
+      "total": 255.8
+    },
+    {
+      "item": 1,
+      "spec": 220,
+      "total": 449.0
+    },
+    {
+      "item": 1,
+      "spec": 114,
+      "total": 74.6
+    },
+    {
+      "item": 1,
+      "spec": 118,
+      "total": 214.20000000000002
+    },
+    {
+      "item": 1,
+      "spec": 33,
+      "total": 54.2
+    },
+    {
+      "item": 1,
+      "spec": 83,
+      "total": 245.4
+    },
+    {
+      "item": 1,
+      "spec": 172,
+      "total": 259.3
+    },
+    {
+      "item": 1,
+      "spec": 117,
+      "total": 470.1
+    },
+    {
+      "item": 1,
+      "spec": 97,
+      "total": 356.3
+    },
+    {
+      "item": 1,
+      "spec": 189,
+      "total": 430.0
+    },
+    {
+      "item": 1,
+      "spec": 24,
+      "total": 291.5
+    },
+    {
+      "item": 1,
+      "spec": 112,
+      "total": 58.8
+    },
+    {
+      "item": 1,
+      "spec": 130,
+      "total": 430.7
+    },
+    {
+      "item": 1,
+      "spec": 128,
+      "total": 477.4
+    },
+    {
+      "item": 1,
+      "spec": 46,
+      "total": 299.09999999999997
+    },
+    {
+      "item": 1,
+      "spec": 95,
+      "total": 228.50000000000003
+    },
+    {
+      "item": 1,
+      "spec": 55,
+      "total": 372.5
+    },
+    {
+      "item": 1,
+      "spec": 89,
+      "total": 317.4
+    },
+    {
+      "item": 1,
+      "spec": 72,
+      "total": 458.4
+    },
+    {
+      "item": 1,
+      "spec": 163,
+      "total": 507.0
+    },
+    {
+      "item": 1,
+      "spec": 193,
+      "total": 449.5
+    },
+    {
+      "item": 1,
+      "spec": 191,
+      "total": 331.5
+    },
+    {
+      "item": 1,
+      "spec": 206,
+      "total": 246.10000000000002
+    },
+    {
+      "item": 1,
+      "spec": 33,
+      "total": 252.9
+    },
+    {
+      "item": 1,
+      "spec": 169,
+      "total": 81.80000000000001
+    },
+    {
+      "item": 1,
+      "spec": 82,
+      "total": 316.5
+    },
+    {
+      "item": 1,
+      "spec": 165,
+      "total": 140.4
+    },
+    {
+      "item": 1,
+      "spec": 164,
+      "total": 256.5
+    },
+    {
+      "item": 1,
+      "spec": 32,
+      "total": 501.1
+    },
+    {
+      "item": 1,
+      "spec": 125,
+      "total": 201.60000000000002
+    },
+    {
+      "item": 1,
+      "spec": 210,
+      "total": 249.50000000000003
+    },
+    {
+      "item": 1,
+      "spec": 18,
+      "total": 493.5
+    },
+    {
+      "item": 1,
+      "spec": 61,
+      "total": 363.3
+    },
+    {
+      "item": 1,
+      "spec": 181,
+      "total": 530.6
+    },
+    {
+      "item": 1,
+      "spec": 154,
+      "total": 433.5
+    },
+    {
+      "item": 1,
+      "spec": 131,
+      "total": 328.9
+    },
+    {
+      "item": 1,
+      "spec": 20,
+      "total": 537.7
+    },
+    {
+      "item": 1,
+      "spec": 101,
+      "total": 525.2
+    },
+    {
+      "item": 1,
+      "spec": 57,
+      "total": 60.8
+    },
+    {
+      "item": 1,
+      "spec": 90,
+      "total": 485.5
+    },
+    {
+      "item": 1,
+      "spec": 99,
+      "total": 107.5
+    },
+    {
+      "item": 1,
+      "spec": 67,
+      "total": 344.3
+    },
+    {
+      "item": 1,
+      "spec": 43,
+      "total": 221.60000000000002
+    },
+    {
+      "item": 1,
+      "spec": 64,
+      "total": 293.5
+    },
+    {
+      "item": 1,
+      "spec": 198,
+      "total": 237.9
+    },
+    {
+      "item": 1,
+      "spec": 126,
+      "total": 258.5
+    },
+    {
+      "item": 1,
+      "spec": 185,
+      "total": 415.8
+    },
+    {
+      "item": 1,
+      "spec": 218,
+      "total": 433.0
+    },
+    {
+      "item": 1,
+      "spec": 94,
+      "total": 387.2
+    },
+    {
+      "item": 1,
+      "spec": 96,
+      "total": 255.60000000000002
+    },
+    {
+      "item": 1,
+      "spec": 80,
+      "total": 447.8
+    },
+    {
+      "item": 1,
+      "spec": 212,
+      "total": 514.5
+    },
+    {
+      "item": 1,
+      "spec": 121,
+      "total": 387.3
+    },
+    {
+      "item": 1,
+      "spec": 197,
+      "total": 259.0
+    },
+    {
+      "item": 1,
+      "spec": 68,
+      "total": 136.5
+    },
+    {
+      "item": 1,
+      "spec": 132,
+      "total": 346.5
+    },
+    {
+      "item": 1,
+      "spec": 144,
+      "total": 373.2
+    },
+    {
+      "item": 1,
+      "spec": 153,
+      "total": 273.4
+    },
+    {
+      "item": 1,
+      "spec": 18,
+      "total": 133.6
+    },
+    {
+      "item": 1,
+      "spec": 108,
+      "total": 355.9
+    },
+    {
+      "item": 1,
+      "spec": 194,
+      "total": 407.9
+    },
+    {
+      "item": 1,
+      "spec": 123,
+      "total": 325.3
+    },
+    {
+      "item": 1,
+      "spec": 152,
+      "total": 400.1
+    },
+    {
+      "item": 1,
+      "spec": 177,
+      "total": 503.1
+    },
+    {
+      "item": 1,
+      "spec": 69,
+      "total": 67.3
+    },
+    {
+      "item": 1,
+      "spec": 206,
+      "total": 228.10000000000002
+    },
+    {
+      "item": 1,
+      "spec": 15,
+      "total": 426.0
+    },
+    {
+      "item": 1,
+      "spec": 25,
+      "total": 214.70000000000002
+    },
+    {
+      "item": 1,
+      "spec": 108,
+      "total": 242.4
+    },
+    {
+      "item": 1,
+      "spec": 211,
+      "total": 96.2
+    },
+    {
+      "item": 1,
+      "spec": 74,
+      "total": 502.5
+    },
+    {
+      "item": 1,
+      "spec": 15,
+      "total": 456.8
+    },
+    {
+      "item": 1,
+      "spec": 140,
+      "total": 244.3
+    },
+    {
+      "item": 1,
+      "spec": 219,
+      "total": 470.5
+    },
+    {
+      "item": 1,
+      "spec": 119,
+      "total": 81.30000000000001
+    },
+    {
+      "item": 1,
+      "spec": 83,
+      "total": 407.6
+    },
+    {
+      "item": 1,
+      "spec": 61,
+      "total": 59.7
+    },
+    {
+      "item": 1,
+      "spec": 173,
+      "total": 201.20000000000002
+    },
+    {
+      "item": 1,
+      "spec": 25,
+      "total": 175.70000000000002
+    },
+    {
+      "item": 1,
+      "spec": 159,
+      "total": 118.9
+    },
+    {
+      "item": 1,
+      "spec": 34,
+      "total": 456.3
+    },
+    {
+      "item": 1,
+      "spec": 103,
+      "total": 340.7
+    },
+    {
+      "item": 1,
+      "spec": 66,
+      "total": 89.7
+    },
+    {
+      "item": 1,
+      "spec": 56,
+      "total": 497.2
+    },
+    {
+      "item": 1,
+      "spec": 202,
+      "total": 70.9
+    },
+    {
+      "item": 1,
+      "spec": 109,
+      "total": 60.0
+    },
+    {
+      "item": 1,
+      "spec": 28,
+      "total": 239.70000000000002
+    },
+    {
+      "item": 1,
+      "spec": 126,
+      "total": 243.70000000000002
+    },
+    {
+      "item": 1,
+      "spec": 142,
+      "total": 338.9
+    },
+    {
+      "item": 1,
+      "spec": 85,
+      "total": 380.5
+    },
+    {
+      "item": 1,
+      "spec": 206,
+      "total": 444.8
+    },
+    {
+      "item": 1,
+      "spec": 90,
+      "total": 292.7
+    },
+    {
+      "item": 1,
+      "spec": 112,
+      "total": 435.2
+    },
+    {
+      "item": 1,
+      "spec": 48,
+      "total": 384.2
+    },
+    {
+      "item": 1,
+      "spec": 90,
+      "total": 253.9
+    },
+    {
+      "item": 1,
+      "spec": 100,
+      "total": 242.3
+    },
+    {
+      "item": 1,
+      "spec": 70,
+      "total": 230.3
+    },
+    {
+      "item": 1,
+      "spec": 148,
+      "total": 464.8
+    },
+    {
+      "item": 1,
+      "spec": 178,
+      "total": 153.6
+    },
+    {
+      "item": 1,
+      "spec": 117,
+      "total": 93.0
+    },
+    {
+      "item": 1,
+      "spec": 214,
+      "total": 529.0
+    },
+    {
+      "item": 1,
+      "spec": 157,
+      "total": 56.9
+    },
+    {
+      "item": 1,
+      "spec": 193,
+      "total": 129.3
+    },
+    {
+      "item": 1,
+      "spec": 171,
+      "total": 432.4
+    },
+    {
+      "item": 1,
+      "spec": 18,
+      "total": 221.00000000000003
+    },
+    {
+      "item": 1,
+      "spec": 180,
+      "total": 116.80000000000001
+    },
+    {
+      "item": 1,
+      "spec": 188,
+      "total": 279.9
+    },
+    {
+      "item": 1,
+      "spec": 162,
+      "total": 449.9
+    },
+    {
+      "item": 1,
+      "spec": 19,
+      "total": 357.7
+    },
+    {
+      "item": 1,
+      "spec": 182,
+      "total": 206.50000000000003
+    },
+    {
+      "item": 1,
+      "spec": 99,
+      "total": 335.7
+    },
+    {
+      "item": 1,
+      "spec": 147,
+      "total": 365.5
+    },
+    {
+      "item": 1,
+      "spec": 147,
+      "total": 313.4
+    },
+    {
+      "item": 1,
+      "spec": 22,
+      "total": 92.6
+    },
+    {
+      "item": 1,
+      "spec": 116,
+      "total": 277.9
+    },
+    {
+      "item": 1,
+      "spec": 147,
+      "total": 157.9
+    },
+    {
+      "item": 1,
+      "spec": 106,
+      "total": 73.9
+    },
+    {
+      "item": 1,
+      "spec": 123,
+      "total": 239.9
+    },
+    {
+      "item": 1,
+      "spec": 214,
+      "total": 401.5
+    },
+    {
+      "item": 1,
+      "spec": 131,
+      "total": 444.2
+    },
+    {
+      "item": 1,
+      "spec": 112,
+      "total": 344.5
+    },
+    {
+      "item": 1,
+      "spec": 120,
+      "total": 307.59999999999997
+    },
+    {
+      "item": 1,
+      "spec": 194,
+      "total": 506.8
+    },
+    {
+      "item": 1,
+      "spec": 48,
+      "total": 242.50000000000003
+    },
+    {
+      "item": 1,
+      "spec": 146,
+      "total": 388.8
+    },
+    {
+      "item": 1,
+      "spec": 110,
+      "total": 235.10000000000002
+    },
+    {
+      "item": 1,
+      "spec": 108,
+      "total": 302.7
+    },
+    {
+      "item": 1,
+      "spec": 219,
+      "total": 252.8
+    },
+    {
+      "item": 1,
+      "spec": 26,
+      "total": 123.30000000000001
+    },
+    {
+      "item": 1,
+      "spec": 100,
+      "total": 295.3
+    },
+    {
+      "item": 1,
+      "spec": 121,
+      "total": 476.9
+    },
+    {
+      "item": 1,
+      "spec": 50,
+      "total": 223.70000000000002
+    },
+    {
+      "item": 1,
+      "spec": 130,
+      "total": 271.3
+    },
+    {
+      "item": 1,
+      "spec": 25,
+      "total": 292.4
+    },
+    {
+      "item": 1,
+      "spec": 47,
+      "total": 230.9
+    },
+    {
+      "item": 1,
+      "spec": 49,
+      "total": 420.6
+    },
+    {
+      "item": 1,
+      "spec": 190,
+      "total": 101.5
+    },
+    {
+      "item": 1,
+      "spec": 45,
+      "total": 410.4
+    },
+    {
+      "item": 1,
+      "spec": 16,
+      "total": 403.1
+    },
+    {
+      "item": 1,
+      "spec": 199,
+      "total": 170.8
+    },
+    {
+      "item": 1,
+      "spec": 173,
+      "total": 215.10000000000002
+    },
+    {
+      "item": 1,
+      "spec": 65,
+      "total": 485.8
+    },
+    {
+      "item": 1,
+      "spec": 189,
+      "total": 140.3
+    },
+    {
+      "item": 1,
+      "spec": 95,
+      "total": 277.6
+    },
+    {
+      "item": 1,
+      "spec": 174,
+      "total": 531.8000000000001
+    },
+    {
+      "item": 1,
+      "spec": 51,
+      "total": 382.2
+    },
+    {
+      "item": 1,
+      "spec": 84,
+      "total": 185.0
+    },
+    {
+      "item": 1,
+      "spec": 39,
+      "total": 434.5
+    },
+    {
+      "item": 1,
+      "spec": 58,
+      "total": 165.8
+    },
+    {
+      "item": 1,
+      "spec": 66,
+      "total": 51.7
+    },
+    {
+      "item": 1,
+      "spec": 56,
+      "total": 277.4
+    },
+    {
+      "item": 1,
+      "spec": 25,
+      "total": 120.4
+    },
+    {
+      "item": 1,
+      "spec": 207,
+      "total": 146.1
+    },
+    {
+      "item": 1,
+      "spec": 24,
+      "total": 476.2
+    },
+    {
+      "item": 1,
+      "spec": 211,
+      "total": 378.1
+    },
+    {
+      "item": 1,
+      "spec": 143,
+      "total": 313.2
+    },
+    {
+      "item": 1,
+      "spec": 89,
+      "total": 401.2
+    },
+    {
+      "item": 1,
+      "spec": 162,
+      "total": 275.5
+    },
+    {
+      "item": 1,
+      "spec": 53,
+      "total": 448.8
+    },
+    {
+      "item": 1,
+      "spec": 21,
+      "total": 136.4
+    },
+    {
+      "item": 1,
+      "spec": 102,
+      "total": 319.3
+    },
+    {
+      "item": 1,
+      "spec": 125,
+      "total": 312.2
+    },
+    {
+      "item": 1,
+      "spec": 82,
+      "total": 91.0
+    },
+    {
+      "item": 1,
+      "spec": 120,
+      "total": 329.59999999999997
+    },
+    {
+      "item": 1,
+      "spec": 120,
+      "total": 156.8
+    },
+    {
+      "item": 1,
+      "spec": 164,
+      "total": 260.9
+    },
+    {
+      "item": 1,
+      "spec": 158,
+      "total": 129.70000000000002
+    },
+    {
+      "item": 1,
+      "spec": 98,
+      "total": 451.6
+    },
+    {
+      "item": 1,
+      "spec": 32,
+      "total": 262.7
+    },
+    {
+      "item": 1,
+      "spec": 35,
+      "total": 116.6
+    },
+    {
+      "item": 1,
+      "spec": 186,
+      "total": 307.9
+    },
+    {
+      "item": 1,
+      "spec": 203,
+      "total": 162.0
+    },
+    {
+      "item": 1,
+      "spec": 53,
+      "total": 506.5
+    },
+    {
+      "item": 1,
+      "spec": 206,
+      "total": 458.9
+    },
+    {
+      "item": 1,
+      "spec": 147,
+      "total": 129.4
+    },
+    {
+      "item": 1,
+      "spec": 207,
+      "total": 62.5
+    },
+    {
+      "item": 1,
+      "spec": 25,
+      "total": 511.5
+    },
+    {
+      "item": 1,
+      "spec": 71,
+      "total": 154.8
+    },
+    {
+      "item": 1,
+      "spec": 184,
+      "total": 172.20000000000002
+    },
+    {
+      "item": 1,
+      "spec": 25,
+      "total": 110.69999999999999
+    },
+    {
+      "item": 1,
+      "spec": 175,
+      "total": 354.1
+    },
+    {
+      "item": 1,
+      "spec": 218,
+      "total": 71.8
+    },
+    {
+      "item": 1,
+      "spec": 96,
+      "total": 520.2
+    },
+    {
+      "item": 1,
+      "spec": 88,
+      "total": 219.70000000000002
+    },
+    {
+      "item": 1,
+      "spec": 81,
+      "total": 288.6
+    },
+    {
+      "item": 1,
+      "spec": 146,
+      "total": 188.10000000000002
+    },
+    {
+      "item": 1,
+      "spec": 196,
+      "total": 524.1
+    },
+    {
+      "item": 1,
+      "spec": 201,
+      "total": 500.0
+    },
+    {
+      "item": 1,
+      "spec": 25,
+      "total": 196.10000000000002
+    },
+    {
+      "item": 1,
+      "spec": 191,
+      "total": 113.69999999999999
+    },
+    {
+      "item": 1,
+      "spec": 120,
+      "total": 138.6
+    },
+    {
+      "item": 1,
+      "spec": 89,
+      "total": 174.8
+    },
+    {
+      "item": 1,
+      "spec": 198,
+      "total": 85.4
+    },
+    {
+      "item": 1,
+      "spec": 195,
+      "total": 343.9
+    },
+    {
+      "item": 1,
+      "spec": 55,
+      "total": 318.59999999999997
+    },
+    {
+      "item": 1,
+      "spec": 206,
+      "total": 322.3
+    },
+    {
+      "item": 1,
+      "spec": 61,
+      "total": 420.7
+    },
+    {
+      "item": 1,
+      "spec": 208,
+      "total": 409.1
+    },
+    {
+      "item": 1,
+      "spec": 24,
+      "total": 359.6
+    },
+    {
+      "item": 1,
+      "spec": 115,
+      "total": 153.0
+    },
+    {
+      "item": 1,
+      "spec": 61,
+      "total": 137.5
+    },
+    {
+      "item": 1,
+      "spec": 96,
+      "total": 45.4
+    },
+    {
+      "item": 1,
+      "spec": 67,
+      "total": 472.8
+    },
+    {
+      "item": 1,
+      "spec": 89,
+      "total": 503.8
+    },
+    {
+      "item": 1,
+      "spec": 206,
+      "total": 268.7
+    },
+    {
+      "item": 1,
+      "spec": 101,
+      "total": 385.5
+    },
+    {
+      "item": 1,
+      "spec": 217,
+      "total": 123.20000000000002
+    },
+    {
+      "item": 1,
+      "spec": 121,
+      "total": 307.0
+    },
+    {
+      "item": 1,
+      "spec": 148,
+      "total": 119.6
+    },
+    {
+      "item": 1,
+      "spec": 43,
+      "total": 105.30000000000001
+    },
+    {
+      "item": 1,
+      "spec": 145,
+      "total": 329.8
+    },
+    {
+      "item": 1,
+      "spec": 15,
+      "total": 74.6
+    },
+    {
+      "item": 1,
+      "spec": 127,
+      "total": 227.00000000000003
+    },
+    {
+      "item": 1,
+      "spec": 38,
+      "total": 471.7
+    },
+    {
+      "item": 1,
+      "spec": 24,
+      "total": 42.6
+    },
+    {
+      "item": 1,
+      "spec": 59,
+      "total": 357.8
+    },
+    {
+      "item": 1,
+      "spec": 207,
+      "total": 414.0
+    },
+    {
+      "item": 1,
+      "spec": 48,
+      "total": 416.0
+    },
+    {
+      "item": 1,
+      "spec": 54,
+      "total": 149.20000000000002
+    },
+    {
+      "item": 1,
+      "spec": 217,
+      "total": 433.6
+    },
+    {
+      "item": 1,
+      "spec": 36,
+      "total": 273.0
+    },
+    {
+      "item": 1,
+      "spec": 32,
+      "total": 292.1
+    },
+    {
+      "item": 1,
+      "spec": 86,
+      "total": 233.70000000000002
+    },
+    {
+      "item": 1,
+      "spec": 214,
+      "total": 505.5
+    },
+    {
+      "item": 1,
+      "spec": 98,
+      "total": 311.3
+    },
+    {
+      "item": 1,
+      "spec": 32,
+      "total": 137.6
+    },
+    {
+      "item": 1,
+      "spec": 77,
+      "total": 119.80000000000001
+    },
+    {
+      "item": 1,
+      "spec": 187,
+      "total": 229.70000000000002
+    },
+    {
+      "item": 1,
+      "spec": 83,
+      "total": 114.30000000000001
+    },
+    {
+      "item": 1,
+      "spec": 188,
+      "total": 424.8
+    },
+    {
+      "item": 1,
+      "spec": 193,
+      "total": 227.3
+    },
+    {
+      "item": 1,
+      "spec": 116,
+      "total": 298.7
+    },
+    {
+      "item": 1,
+      "spec": 175,
+      "total": 91.2
+    },
+    {
+      "item": 1,
+      "spec": 199,
+      "total": 346.9
+    },
+    {
+      "item": 1,
+      "spec": 192,
+      "total": 95.30000000000001
+    },
+    {
+      "item": 1,
+      "spec": 36,
+      "total": 456.6
+    },
+    {
+      "item": 1,
+      "spec": 49,
+      "total": 488.0
+    },
+    {
+      "item": 1,
+      "spec": 114,
+      "total": 305.59999999999997
+    },
+    {
+      "item": 1,
+      "spec": 105,
+      "total": 476.6
+    },
+    {
+      "item": 1,
+      "spec": 131,
+      "total": 352.5
+    },
+    {
+      "item": 1,
+      "spec": 83,
+      "total": 121.70000000000002
+    },
+    {
+      "item": 1,
+      "spec": 88,
+      "total": 335.7
+    },
+    {
+      "item": 1,
+      "spec": 147,
+      "total": 428.3
+    },
+    {
+      "item": 1,
+      "spec": 209,
+      "total": 436.9
+    },
+    {
+      "item": 1,
+      "spec": 107,
+      "total": 393.7
+    },
+    {
+      "item": 1,
+      "spec": 160,
+      "total": 423.9
+    },
+    {
+      "item": 1,
+      "spec": 216,
+      "total": 509.7
+    },
+    {
+      "item": 1,
+      "spec": 70,
+      "total": 465.0
+    },
+    {
+      "item": 1,
+      "spec": 200,
+      "total": 323.59999999999997
+    },
+    {
+      "item": 1,
+      "spec": 139,
+      "total": 76.6
+    },
+    {
+      "item": 1,
+      "spec": 201,
+      "total": 215.20000000000002
+    },
+    {
+      "item": 1,
+      "spec": 206,
+      "total": 215.9
+    },
+    {
+      "item": 1,
+      "spec": 175,
+      "total": 509.0
+    },
+    {
+      "item": 1,
+      "spec": 65,
+      "total": 245.00000000000003
+    },
+    {
+      "item": 1,
+      "spec": 64,
+      "total": 150.8
+    },
+    {
+      "item": 1,
+      "spec": 79,
+      "total": 493.3
+    },
+    {
+      "item": 1,
+      "spec": 199,
+      "total": 515.3000000000001
+    },
+    {
+      "item": 1,
+      "spec": 67,
+      "total": 411.0
+    },
+    {
+      "item": 1,
+      "spec": 63,
+      "total": 147.20000000000002
+    },
+    {
+      "item": 1,
+      "spec": 151,
+      "total": 408.8
+    },
+    {
+      "item": 1,
+      "spec": 158,
+      "total": 74.5
+    },
+    {
+      "item": 1,
+      "spec": 188,
+      "total": 304.0
+    },
+    {
+      "item": 1,
+      "spec": 125,
+      "total": 145.4
+    },
+    {
+      "item": 1,
+      "spec": 148,
+      "total": 507.3
+    },
+    {
+      "item": 1,
+      "spec": 70,
+      "total": 183.10000000000002
+    },
+    {
+      "item": 1,
+      "spec": 93,
+      "total": 368.8
+    },
+    {
+      "item": 1,
+      "spec": 136,
+      "total": 73.6
+    },
+    {
+      "item": 1,
+      "spec": 20,
+      "total": 146.20000000000002
+    },
+    {
+      "item": 1,
+      "spec": 126,
+      "total": 186.0
+    },
+    {
+      "item": 1,
+      "spec": 100,
+      "total": 237.9
+    },
+    {
+      "item": 1,
+      "spec": 17,
+      "total": 455.3
+    },
+    {
+      "item": 1,
+      "spec": 114,
+      "total": 321.7
+    },
+    {
+      "item": 1,
+      "spec": 81,
+      "total": 123.30000000000001
+    },
+    {
+      "item": 1,
+      "spec": 209,
+      "total": 156.6
+    },
+    {
+      "item": 1,
+      "spec": 188,
+      "total": 270.0
+    },
+    {
+      "item": 1,
+      "spec": 205,
+      "total": 155.3
+    },
+    {
+      "item": 1,
+      "spec": 218,
+      "total": 46.1
+    },
+    {
+      "item": 1,
+      "spec": 196,
+      "total": 471.2
+    },
+    {
+      "item": 1,
+      "spec": 95,
+      "total": 49.1
+    },
+    {
+      "item": 1,
+      "spec": 105,
+      "total": 492.9
+    },
+    {
+      "item": 1,
+      "spec": 184,
+      "total": 328.8
+    },
+    {
+      "item": 1,
+      "spec": 130,
+      "total": 343.09999999999997
+    },
+    {
+      "item": 1,
+      "spec": 111,
+      "total": 517.4
+    },
+    {
+      "item": 1,
+      "spec": 198,
+      "total": 527.9
+    },
+    {
+      "item": 1,
+      "spec": 193,
+      "total": 140.1
+    },
+    {
+      "item": 1,
+      "spec": 103,
+      "total": 107.9
+    },
+    {
+      "item": 1,
+      "spec": 104,
+      "total": 395.2
+    },
+    {
+      "item": 1,
+      "spec": 27,
+      "total": 64.0
+    },
+    {
+      "item": 1,
+      "spec": 75,
+      "total": 63.9
+    },
+    {
+      "item": 1,
+      "spec": 132,
+      "total": 525.5
+    },
+    {
+      "item": 1,
+      "spec": 131,
+      "total": 349.8
+    },
+    {
+      "item": 1,
+      "spec": 154,
+      "total": 132.1
+    },
+    {
+      "item": 1,
+      "spec": 135,
+      "total": 418.6
+    },
+    {
+      "item": 1,
+      "spec": 129,
+      "total": 159.4
+    },
+    {
+      "item": 1,
+      "spec": 80,
+      "total": 468.6
+    },
+    {
+      "item": 1,
+      "spec": 59,
+      "total": 202.60000000000002
+    },
+    {
+      "item": 1,
+      "spec": 176,
+      "total": 484.7
+    },
+    {
+      "item": 1,
+      "spec": 83,
+      "total": 262.4
+    },
+    {
+      "item": 1,
+      "spec": 166,
+      "total": 420.9
+    },
+    {
+      "item": 1,
+      "spec": 111,
+      "total": 287.0
+    },
+    {
+      "item": 1,
+      "spec": 88,
+      "total": 323.5
+    },
+    {
+      "item": 1,
+      "spec": 93,
+      "total": 451.1
+    },
+    {
+      "item": 1,
+      "spec": 102,
+      "total": 231.10000000000002
+    },
+    {
+      "item": 1,
+      "spec": 201,
+      "total": 338.5
+    },
+    {
+      "item": 1,
+      "spec": 28,
+      "total": 296.59999999999997
+    },
+    {
+      "item": 1,
+      "spec": 194,
+      "total": 46.9
+    },
+    {
+      "item": 1,
+      "spec": 146,
+      "total": 63.0
+    },
+    {
+      "item": 1,
+      "spec": 136,
+      "total": 393.9
+    },
+    {
+      "item": 1,
+      "spec": 112,
+      "total": 467.4
+    },
+    {
+      "item": 1,
+      "spec": 216,
+      "total": 44.199999999999996
+    },
+    {
+      "item": 1,
+      "spec": 65,
+      "total": 233.4
+    },
+    {
+      "item": 1,
+      "spec": 188,
+      "total": 201.00000000000003
+    },
+    {
+      "item": 1,
+      "spec": 84,
+      "total": 389.5
+    },
+    {
+      "item": 1,
+      "spec": 186,
+      "total": 371.0
+    },
+    {
+      "item": 1,
+      "spec": 81,
+      "total": 70.3
+    },
+    {
+      "item": 1,
+      "spec": 172,
+      "total": 178.60000000000002
+    },
+    {
+      "item": 1,
+      "spec": 155,
+      "total": 217.50000000000003
+    },
+    {
+      "item": 1,
+      "spec": 77,
+      "total": 162.5
+    },
+    {
+      "item": 1,
+      "spec": 117,
+      "total": 521.0
+    },
+    {
+      "item": 1,
+      "spec": 187,
+      "total": 408.6
+    },
+    {
+      "item": 1,
+      "spec": 151,
+      "total": 437.7
+    },
+    {
+      "item": 1,
+      "spec": 46,
+      "total": 310.2
+    },
+    {
+      "item": 1,
+      "spec": 220,
+      "total": 294.5
+    },
+    {
+      "item": 1,
+      "spec": 146,
+      "total": 384.9
+    },
+    {
+      "item": 1,
+      "spec": 85,
+      "total": 127.70000000000002
+    },
+    {
+      "item": 1,
+      "spec": 101,
+      "total": 139.0
+    },
+    {
+      "item": 1,
+      "spec": 17,
+      "total": 309.0
+    },
+    {
+      "item": 1,
+      "spec": 143,
+      "total": 216.10000000000002
+    },
+    {
+      "item": 1,
+      "spec": 186,
+      "total": 122.80000000000001
+    },
+    {
+      "item": 1,
+      "spec": 204,
+      "total": 64.0
+    },
+    {
+      "item": 1,
+      "spec": 213,
+      "total": 403.1
+    },
+    {
+      "item": 1,
+      "spec": 43,
+      "total": 70.8
+    },
+    {
+      "item": 1,
+      "spec": 156,
+      "total": 51.8
+    },
+    {
+      "item": 1,
+      "spec": 16,
+      "total": 207.20000000000002
+    },
+    {
+      "item": 1,
+      "spec": 111,
+      "total": 493.4
+    },
+    {
+      "item": 1,
+      "spec": 202,
+      "total": 481.1
+    },
+    {
+      "item": 1,
+      "spec": 154,
+      "total": 524.6
+    },
+    {
+      "item": 1,
+      "spec": 180,
+      "total": 246.4
+    },
+    {
+      "item": 1,
+      "spec": 170,
+      "total": 453.1
+    },
+    {
+      "item": 1,
+      "spec": 78,
+      "total": 440.6
+    },
+    {
+      "item": 1,
+      "spec": 119,
+      "total": 56.4
+    },
+    {
+      "item": 1,
+      "spec": 125,
+      "total": 153.5
+    },
+    {
+      "item": 1,
+      "spec": 61,
+      "total": 409.3
+    },
+    {
+      "item": 1,
+      "spec": 179,
+      "total": 262.4
+    },
+    {
+      "item": 1,
+      "spec": 139,
+      "total": 125.1
+    },
+    {
+      "item": 1,
+      "spec": 150,
+      "total": 459.3
+    },
+    {
+      "item": 1,
+      "spec": 178,
+      "total": 422.7
+    },
+    {
+      "item": 1,
+      "spec": 181,
+      "total": 82.30000000000001
+    },
+    {
+      "item": 1,
+      "spec": 40,
+      "total": 57.9
+    },
+    {
+      "item": 1,
+      "spec": 190,
+      "total": 55.8
+    },
+    {
+      "item": 1,
+      "spec": 118,
+      "total": 87.5
+    },
+    {
+      "item": 1,
+      "spec": 65,
+      "total": 71.1
+    },
+    {
+      "item": 1,
+      "spec": 160,
+      "total": 263.9
+    },
+    {
+      "item": 1,
+      "spec": 65,
+      "total": 227.70000000000002
+    },
+    {
+      "item": 1,
+      "spec": 60,
+      "total": 367.0
+    },
+    {
+      "item": 1,
+      "spec": 214,
+      "total": 424.2
+    },
+    {
+      "item": 1,
+      "spec": 31,
+      "total": 460.0
+    },
+    {
+      "item": 1,
+      "spec": 28,
+      "total": 392.5
+    },
+    {
+      "item": 1,
+      "spec": 191,
+      "total": 229.4
+    },
+    {
+      "item": 1,
+      "spec": 194,
+      "total": 253.60000000000002
+    },
+    {
+      "item": 1,
+      "spec": 64,
+      "total": 334.5
+    },
+    {
+      "item": 1,
+      "spec": 107,
+      "total": 331.59999999999997
+    },
+    {
+      "item": 1,
+      "spec": 96,
+      "total": 93.9
+    },
+    {
+      "item": 1,
+      "spec": 168,
+      "total": 390.1
+    },
+    {
+      "item": 1,
+      "spec": 79,
+      "total": 62.2
+    },
+    {
+      "item": 1,
+      "spec": 213,
+      "total": 355.1
+    },
+    {
+      "item": 1,
+      "spec": 109,
+      "total": 187.9
+    },
+    {
+      "item": 1,
+      "spec": 164,
+      "total": 295.9
+    },
+    {
+      "item": 1,
+      "spec": 170,
+      "total": 418.8
+    },
+    {
+      "item": 1,
+      "spec": 37,
+      "total": 351.8
+    },
+    {
+      "item": 1,
+      "spec": 70,
+      "total": 339.59999999999997
+    },
+    {
+      "item": 1,
+      "spec": 176,
+      "total": 175.3
+    },
+    {
+      "item": 1,
+      "spec": 62,
+      "total": 236.60000000000002
+    },
+    {
+      "item": 1,
+      "spec": 163,
+      "total": 529.4
+    },
+    {
+      "item": 1,
+      "spec": 75,
+      "total": 355.8
+    },
+    {
+      "item": 1,
+      "spec": 124,
+      "total": 130.20000000000002
+    },
+    {
+      "item": 1,
+      "spec": 57,
+      "total": 436.5
+    },
+    {
+      "item": 1,
+      "spec": 60,
+      "total": 100.80000000000001
+    },
+    {
+      "item": 1,
+      "spec": 113,
+      "total": 437.8
+    },
+    {
+      "item": 1,
+      "spec": 141,
+      "total": 107.0
+    },
+    {
+      "item": 1,
+      "spec": 15,
+      "total": 319.0
+    },
+    {
+      "item": 1,
+      "spec": 121,
+      "total": 420.7
+    },
+    {
+      "item": 1,
+      "spec": 142,
+      "total": 156.5
+    },
+    {
+      "item": 1,
+      "spec": 138,
+      "total": 52.6
+    },
+    {
+      "item": 1,
+      "spec": 128,
+      "total": 352.8
+    },
+    {
+      "item": 1,
+      "spec": 84,
+      "total": 355.3
+    },
+    {
+      "item": 1,
+      "spec": 119,
+      "total": 444.8
+    },
+    {
+      "item": 1,
+      "spec": 79,
+      "total": 353.2
+    },
+    {
+      "item": 1,
+      "spec": 118,
+      "total": 191.10000000000002
+    },
+    {
+      "item": 1,
+      "spec": 67,
+      "total": 535.7
+    },
+    {
+      "item": 1,
+      "spec": 189,
+      "total": 253.70000000000002
+    },
+    {
+      "item": 1,
+      "spec": 217,
+      "total": 516.3000000000001
+    },
+    {
+      "item": 1,
+      "spec": 179,
+      "total": 77.9
+    },
+    {
+      "item": 1,
+      "spec": 95,
+      "total": 537.4
+    },
+    {
+      "item": 1,
+      "spec": 87,
+      "total": 61.5
+    },
+    {
+      "item": 1,
+      "spec": 164,
+      "total": 375.8
+    },
+    {
+      "item": 1,
+      "spec": 104,
+      "total": 307.0
+    },
+    {
+      "item": 1,
+      "spec": 25,
+      "total": 309.0
+    },
+    {
+      "item": 1,
+      "spec": 61,
+      "total": 82.0
+    },
+    {
+      "item": 1,
+      "spec": 214,
+      "total": 151.6
+    },
+    {
+      "item": 1,
+      "spec": 97,
+      "total": 427.0
+    },
+    {
+      "item": 1,
+      "spec": 72,
+      "total": 169.3
+    },
+    {
+      "item": 1,
+      "spec": 93,
+      "total": 84.30000000000001
+    },
+    {
+      "item": 1,
+      "spec": 158,
+      "total": 400.6
+    },
+    {
+      "item": 1,
+      "spec": 119,
+      "total": 73.9
+    },
+    {
+      "item": 1,
+      "spec": 25,
+      "total": 73.5
+    },
+    {
+      "item": 1,
+      "spec": 57,
+      "total": 412.7
+    },
+    {
+      "item": 1,
+      "spec": 125,
+      "total": 182.20000000000002
+    },
+    {
+      "item": 1,
+      "spec": 211,
+      "total": 122.70000000000002
+    },
+    {
+      "item": 1,
+      "spec": 39,
+      "total": 383.5
+    },
+    {
+      "item": 1,
+      "spec": 82,
+      "total": 48.6
+    },
+    {
+      "item": 1,
+      "spec": 124,
+      "total": 377.0
+    },
+    {
+      "item": 1,
+      "spec": 167,
+      "total": 115.30000000000001
+    },
+    {
+      "item": 1,
+      "spec": 17,
+      "total": 490.6
+    },
+    {
+      "item": 1,
+      "spec": 85,
+      "total": 104.2
+    },
+    {
+      "item": 1,
+      "spec": 128,
+      "total": 461.7
+    },
+    {
+      "item": 1,
+      "spec": 159,
+      "total": 58.8
+    },
+    {
+      "item": 1,
+      "spec": 42,
+      "total": 131.9
+    },
+    {
+      "item": 1,
+      "spec": 136,
+      "total": 526.4
+    },
+    {
+      "item": 1,
+      "spec": 98,
+      "total": 386.1
+    },
+    {
+      "item": 1,
+      "spec": 140,
+      "total": 280.5
+    },
+    {
+      "item": 1,
+      "spec": 39,
+      "total": 48.4
+    },
+    {
+      "item": 1,
+      "spec": 146,
+      "total": 128.6
+    },
+    {
+      "item": 1,
+      "spec": 201,
+      "total": 132.4
+    },
+    {
+      "item": 1,
+      "spec": 64,
+      "total": 94.2
+    },
+    {
+      "item": 1,
+      "spec": 159,
+      "total": 420.3
+    },
+    {
+      "item": 1,
+      "spec": 204,
+      "total": 268.7
+    },
+    {
+      "item": 1,
+      "spec": 102,
+      "total": 78.7
+    },
+    {
+      "item": 1,
+      "spec": 161,
+      "total": 192.20000000000002
+    },
+    {
+      "item": 1,
+      "spec": 33,
+      "total": 395.1
+    },
+    {
+      "item": 1,
+      "spec": 162,
+      "total": 387.2
+    },
+    {
+      "item": 1,
+      "spec": 32,
+      "total": 379.2
+    },
+    {
+      "item": 1,
+      "spec": 112,
+      "total": 416.5
+    },
+    {
+      "item": 1,
+      "spec": 143,
+      "total": 501.4
+    },
+    {
+      "item": 1,
+      "spec": 116,
+      "total": 267.9
+    },
+    {
+      "item": 1,
+      "spec": 126,
+      "total": 279.7
+    },
+    {
+      "item": 1,
+      "spec": 169,
+      "total": 175.70000000000002
+    },
+    {
+      "item": 1,
+      "spec": 63,
+      "total": 91.0
+    },
+    {
+      "item": 1,
+      "spec": 32,
+      "total": 164.6
+    },
+    {
+      "item": 1,
+      "spec": 65,
+      "total": 193.70000000000002
+    },
+    {
+      "item": 1,
+      "spec": 113,
+      "total": 203.20000000000002
+    },
+    {
+      "item": 1,
+      "spec": 32,
+      "total": 53.5
+    },
+    {
+      "item": 1,
+      "spec": 119,
+      "total": 402.2
+    },
+    {
+      "item": 1,
+      "spec": 99,
+      "total": 139.70000000000002
+    },
+    {
+      "item": 1,
+      "spec": 140,
+      "total": 376.9
+    },
+    {
+      "item": 1,
+      "spec": 59,
+      "total": 184.5
+    },
+    {
+      "item": 1,
+      "spec": 174,
+      "total": 364.6
+    },
+    {
+      "item": 1,
+      "spec": 29,
+      "total": 185.5
+    },
+    {
+      "item": 1,
+      "spec": 162,
+      "total": 100.4
+    },
+    {
+      "item": 1,
+      "spec": 50,
+      "total": 376.5
+    },
+    {
+      "item": 1,
+      "spec": 101,
+      "total": 88.0
+    },
+    {
+      "item": 1,
+      "spec": 34,
+      "total": 475.4
+    },
+    {
+      "item": 1,
+      "spec": 191,
+      "total": 387.9
+    },
+    {
+      "item": 1,
+      "spec": 161,
+      "total": 442.5
+    },
+    {
+      "item": 1,
+      "spec": 81,
+      "total": 461.9
+    },
+    {
+      "item": 1,
+      "spec": 184,
+      "total": 207.4
+    },
+    {
+      "item": 1,
+      "spec": 174,
+      "total": 325.0
+    },
+    {
+      "item": 1,
+      "spec": 151,
+      "total": 182.60000000000002
+    },
+    {
+      "item": 1,
+      "spec": 199,
+      "total": 217.60000000000002
+    },
+    {
+      "item": 1,
+      "spec": 192,
+      "total": 250.70000000000002
+    },
+    {
+      "item": 1,
+      "spec": 59,
+      "total": 348.9
+    },
+    {
+      "item": 1,
+      "spec": 121,
+      "total": 269.0
+    },
+    {
+      "item": 1,
+      "spec": 94,
+      "total": 173.70000000000002
+    },
+    {
+      "item": 1,
+      "spec": 220,
+      "total": 525.2
+    },
+    {
+      "item": 1,
+      "spec": 20,
+      "total": 173.9
+    },
+    {
+      "item": 1,
+      "spec": 94,
+      "total": 347.0
+    },
+    {
+      "item": 1,
+      "spec": 78,
+      "total": 211.20000000000002
+    },
+    {
+      "item": 1,
+      "spec": 169,
+      "total": 481.1
+    },
+    {
+      "item": 1,
+      "spec": 45,
+      "total": 459.7
+    },
+    {
+      "item": 1,
+      "spec": 214,
+      "total": 518.5
+    },
+    {
+      "item": 1,
+      "spec": 163,
+      "total": 385.3
+    },
+    {
+      "item": 1,
+      "spec": 69,
+      "total": 481.9
+    },
+    {
+      "item": 1,
+      "spec": 203,
+      "total": 382.0
+    },
+    {
+      "item": 1,
+      "spec": 15,
+      "total": 521.3000000000001
+    },
+    {
+      "item": 1,
+      "spec": 68,
+      "total": 405.1
+    },
+    {
+      "item": 1,
+      "spec": 134,
+      "total": 254.50000000000003
+    },
+    {
+      "item": 1,
+      "spec": 156,
+      "total": 499.1
+    },
+    {
+      "item": 1,
+      "spec": 45,
+      "total": 227.60000000000002
+    },
+    {
+      "item": 1,
+      "spec": 203,
+      "total": 121.6
+    },
+    {
+      "item": 1,
+      "spec": 204,
+      "total": 236.9
+    },
+    {
+      "item": 1,
+      "spec": 36,
+      "total": 443.4
+    },
+    {
+      "item": 1,
+      "spec": 28,
+      "total": 438.1
+    },
+    {
+      "item": 1,
+      "spec": 137,
+      "total": 299.9
+    },
+    {
+      "item": 1,
+      "spec": 91,
+      "total": 110.80000000000001
+    },
+    {
+      "item": 1,
+      "spec": 117,
+      "total": 66.6
+    },
+    {
+      "item": 1,
+      "spec": 192,
+      "total": 338.4
+    },
+    {
+      "item": 1,
+      "spec": 93,
+      "total": 290.6
+    },
+    {
+      "item": 1,
+      "spec": 54,
+      "total": 311.4
+    },
+    {
+      "item": 1,
+      "spec": 184,
+      "total": 80.9
+    },
+    {
+      "item": 1,
+      "spec": 148,
+      "total": 108.30000000000001
+    },
+    {
+      "item": 1,
+      "spec": 89,
+      "total": 483.8
+    },
+    {
+      "item": 1,
+      "spec": 124,
+      "total": 504.3
+    },
+    {
+      "item": 1,
+      "spec": 120,
+      "total": 172.4
+    },
+    {
+      "item": 1,
+      "spec": 24,
+      "total": 162.9
+    },
+    {
+      "item": 1,
+      "spec": 191,
+      "total": 43.4
+    },
+    {
+      "item": 1,
+      "spec": 136,
+      "total": 189.70000000000002
+    },
+    {
+      "item": 1,
+      "spec": 160,
+      "total": 290.6
+    },
+    {
+      "item": 1,
+      "spec": 19,
+      "total": 370.0
+    },
+    {
+      "item": 1,
+      "spec": 116,
+      "total": 112.6
+    },
+    {
+      "item": 1,
+      "spec": 43,
+      "total": 209.60000000000002
+    },
+    {
+      "item": 1,
+      "spec": 130,
+      "total": 375.2
+    },
+    {
+      "item": 1,
+      "spec": 108,
+      "total": 529.0
+    },
+    {
+      "item": 1,
+      "spec": 193,
+      "total": 117.1
+    },
+    {
+      "item": 1,
+      "spec": 38,
+      "total": 291.3
+    },
+    {
+      "item": 1,
+      "spec": 150,
+      "total": 225.3
+    },
+    {
+      "item": 1,
+      "spec": 32,
+      "total": 353.9
+    },
+    {
+      "item": 1,
+      "spec": 74,
+      "total": 284.9
+    },
+    {
+      "item": 1,
+      "spec": 26,
+      "total": 377.0
+    },
+    {
+      "item": 1,
+      "spec": 169,
+      "total": 299.5
+    },
+    {
+      "item": 1,
+      "spec": 85,
+      "total": 169.3
+    },
+    {
+      "item": 1,
+      "spec": 51,
+      "total": 501.1
+    },
+    {
+      "item": 1,
+      "spec": 159,
+      "total": 325.7
+    },
+    {
+      "item": 1,
+      "spec": 174,
+      "total": 461.9
+    },
+    {
+      "item": 1,
+      "spec": 219,
+      "total": 191.8
+    },
+    {
+      "item": 1,
+      "spec": 155,
+      "total": 424.4
+    },
+    {
+      "item": 1,
+      "spec": 54,
+      "total": 198.4
+    },
+    {
+      "item": 1,
+      "spec": 61,
+      "total": 418.5
+    },
+    {
+      "item": 1,
+      "spec": 210,
+      "total": 418.4
+    },
+    {
+      "item": 1,
+      "spec": 205,
+      "total": 287.4
+    },
+    {
+      "item": 1,
+      "spec": 62,
+      "total": 161.6
+    },
+    {
+      "item": 1,
+      "spec": 218,
+      "total": 406.4
+    },
+    {
+      "item": 1,
+      "spec": 209,
+      "total": 493.9
+    },
+    {
+      "item": 1,
+      "spec": 129,
+      "total": 316.2
+    },
+    {
+      "item": 1,
+      "spec": 52,
+      "total": 434.0
+    },
+    {
+      "item": 1,
+      "spec": 166,
+      "total": 406.8
+    },
+    {
+      "item": 1,
+      "spec": 115,
+      "total": 174.0
+    },
+    {
+      "item": 1,
+      "spec": 169,
+      "total": 431.7
+    },
+    {
+      "item": 1,
+      "spec": 86,
+      "total": 43.1
+    },
+    {
+      "item": 1,
+      "spec": 44,
+      "total": 432.4
+    },
+    {
+      "item": 1,
+      "spec": 207,
+      "total": 505.4
+    },
+    {
+      "item": 1,
+      "spec": 17,
+      "total": 220.20000000000002
+    },
+    {
+      "item": 1,
+      "spec": 175,
+      "total": 163.70000000000002
+    },
+    {
+      "item": 1,
+      "spec": 182,
+      "total": 116.80000000000001
+    },
+    {
+      "item": 1,
+      "spec": 51,
+      "total": 406.5
+    },
+    {
+      "item": 1,
+      "spec": 149,
+      "total": 199.20000000000002
+    },
+    {
+      "item": 1,
+      "spec": 43,
+      "total": 409.0
+    },
+    {
+      "item": 1,
+      "spec": 134,
+      "total": 411.6
+    },
+    {
+      "item": 1,
+      "spec": 203,
+      "total": 94.5
+    },
+    {
+      "item": 1,
+      "spec": 135,
+      "total": 413.9
+    },
+    {
+      "item": 1,
+      "spec": 197,
+      "total": 170.10000000000002
+    },
+    {
+      "item": 1,
+      "spec": 104,
+      "total": 400.8
+    },
+    {
+      "item": 1,
+      "spec": 65,
+      "total": 467.5
+    },
+    {
+      "item": 1,
+      "spec": 124,
+      "total": 482.9
+    },
+    {
+      "item": 1,
+      "spec": 119,
+      "total": 176.9
+    },
+    {
+      "item": 1,
+      "spec": 82,
+      "total": 266.9
+    },
+    {
+      "item": 1,
+      "spec": 93,
+      "total": 174.20000000000002
+    },
+    {
+      "item": 1,
+      "spec": 34,
+      "total": 535.5
+    },
+    {
+      "item": 1,
+      "spec": 38,
+      "total": 517.9
+    },
+    {
+      "item": 1,
+      "spec": 168,
+      "total": 538.0
+    },
+    {
+      "item": 1,
+      "spec": 211,
+      "total": 463.8
+    },
+    {
+      "item": 1,
+      "spec": 151,
+      "total": 348.5
+    },
+    {
+      "item": 1,
+      "spec": 89,
+      "total": 172.20000000000002
+    },
+    {
+      "item": 1,
+      "spec": 72,
+      "total": 344.8
+    },
+    {
+      "item": 1,
+      "spec": 106,
+      "total": 246.8
+    },
+    {
+      "item": 1,
+      "spec": 16,
+      "total": 396.3
+    },
+    {
+      "item": 1,
+      "spec": 117,
+      "total": 153.9
+    },
+    {
+      "item": 1,
+      "spec": 104,
+      "total": 201.4
+    },
+    {
+      "item": 1,
+      "spec": 65,
+      "total": 272.0
+    },
+    {
+      "item": 1,
+      "spec": 98,
+      "total": 114.30000000000001
+    },
+    {
+      "item": 1,
+      "spec": 78,
+      "total": 69.0
+    },
+    {
+      "item": 1,
+      "spec": 95,
+      "total": 527.0
+    },
+    {
+      "item": 1,
+      "spec": 39,
+      "total": 169.20000000000002
+    },
+    {
+      "item": 1,
+      "spec": 150,
+      "total": 500.9
+    },
+    {
+      "item": 1,
+      "spec": 79,
+      "total": 108.5
+    },
+    {
+      "item": 1,
+      "spec": 182,
+      "total": 111.6
+    },
+    {
+      "item": 1,
+      "spec": 186,
+      "total": 186.70000000000002
+    },
+    {
+      "item": 1,
+      "spec": 36,
+      "total": 283.7
+    },
+    {
+      "item": 1,
+      "spec": 90,
+      "total": 157.6
+    },
+    {
+      "item": 1,
+      "spec": 199,
+      "total": 163.3
+    },
+    {
+      "item": 1,
+      "spec": 97,
+      "total": 47.7
+    },
+    {
+      "item": 1,
+      "spec": 86,
+      "total": 47.0
+    },
+    {
+      "item": 1,
+      "spec": 163,
+      "total": 45.6
+    },
+    {
+      "item": 1,
+      "spec": 17,
+      "total": 276.7
+    },
+    {
+      "item": 1,
+      "spec": 167,
+      "total": 136.4
+    },
+    {
+      "item": 1,
+      "spec": 122,
+      "total": 73.1
+    },
+    {
+      "item": 1,
+      "spec": 135,
+      "total": 194.9
+    },
+    {
+      "item": 1,
+      "spec": 39,
+      "total": 485.7
+    },
+    {
+      "item": 1,
+      "spec": 137,
+      "total": 512.5
+    },
+    {
+      "item": 1,
+      "spec": 149,
+      "total": 412.6
+    },
+    {
+      "item": 1,
+      "spec": 53,
+      "total": 246.10000000000002
+    },
+    {
+      "item": 1,
+      "spec": 80,
+      "total": 324.0
+    },
+    {
+      "item": 1,
+      "spec": 86,
+      "total": 100.5
+    },
+    {
+      "item": 1,
+      "spec": 156,
+      "total": 329.4
+    },
+    {
+      "item": 1,
+      "spec": 95,
+      "total": 420.2
+    },
+    {
+      "item": 1,
+      "spec": 95,
+      "total": 353.2
+    },
+    {
+      "item": 1,
+      "spec": 86,
+      "total": 81.7
+    },
+    {
+      "item": 1,
+      "spec": 217,
+      "total": 52.5
+    },
+    {
+      "item": 1,
+      "spec": 108,
+      "total": 361.0
+    },
+    {
+      "item": 1,
+      "spec": 159,
+      "total": 135.1
+    },
+    {
+      "item": 1,
+      "spec": 217,
+      "total": 100.9
+    },
+    {
+      "item": 1,
+      "spec": 195,
+      "total": 299.5
+    },
+    {
+      "item": 1,
+      "spec": 72,
+      "total": 257.2
+    },
+    {
+      "item": 1,
+      "spec": 122,
+      "total": 42.5
+    },
+    {
+      "item": 1,
+      "spec": 116,
+      "total": 307.4
+    },
+    {
+      "item": 1,
+      "spec": 216,
+      "total": 192.9
+    },
+    {
+      "item": 1,
+      "spec": 93,
+      "total": 447.8
+    },
+    {
+      "item": 1,
+      "spec": 43,
+      "total": 156.70000000000002
+    },
+    {
+      "item": 1,
+      "spec": 193,
+      "total": 134.1
+    },
+    {
+      "item": 1,
+      "spec": 62,
+      "total": 421.0
+    },
+    {
+      "item": 1,
+      "spec": 22,
+      "total": 277.2
+    },
+    {
+      "item": 1,
+      "spec": 149,
+      "total": 329.5
+    },
+    {
+      "item": 1,
+      "spec": 89,
+      "total": 254.8
+    },
+    {
+      "item": 1,
+      "spec": 178,
+      "total": 404.5
+    },
+    {
+      "item": 1,
+      "spec": 15,
+      "total": 173.0
+    },
+    {
+      "item": 1,
+      "spec": 67,
+      "total": 337.59999999999997
+    },
+    {
+      "item": 1,
+      "spec": 40,
+      "total": 124.9
+    },
+    {
+      "item": 1,
+      "spec": 140,
+      "total": 288.3
+    },
+    {
+      "item": 1,
+      "spec": 104,
+      "total": 528.4
+    },
+    {
+      "item": 1,
+      "spec": 165,
+      "total": 151.9
+    },
+    {
+      "item": 1,
+      "spec": 89,
+      "total": 176.10000000000002
+    },
+    {
+      "item": 1,
+      "spec": 23,
+      "total": 307.0
+    },
+    {
+      "item": 1,
+      "spec": 67,
+      "total": 436.8
+    },
+    {
+      "item": 1,
+      "spec": 49,
+      "total": 203.70000000000002
+    },
+    {
+      "item": 1,
+      "spec": 54,
+      "total": 129.1
+    },
+    {
+      "item": 1,
+      "spec": 127,
+      "total": 103.9
+    },
+    {
+      "item": 1,
+      "spec": 194,
+      "total": 374.9
+    },
+    {
+      "item": 1,
+      "spec": 147,
+      "total": 484.7
+    },
+    {
+      "item": 1,
+      "spec": 45,
+      "total": 536.8000000000001
+    },
+    {
+      "item": 1,
+      "spec": 145,
+      "total": 188.60000000000002
+    },
+    {
+      "item": 1,
+      "spec": 163,
+      "total": 126.30000000000001
+    },
+    {
+      "item": 1,
+      "spec": 106,
+      "total": 330.59999999999997
+    },
+    {
+      "item": 1,
+      "spec": 90,
+      "total": 272.0
+    },
+    {
+      "item": 1,
+      "spec": 104,
+      "total": 374.9
+    },
+    {
+      "item": 1,
+      "spec": 134,
+      "total": 322.9
+    },
+    {
+      "item": 1,
+      "spec": 219,
+      "total": 481.8
+    },
+    {
+      "item": 1,
+      "spec": 50,
+      "total": 268.3
+    },
+    {
+      "item": 1,
+      "spec": 108,
+      "total": 355.4
+    },
+    {
+      "item": 1,
+      "spec": 55,
+      "total": 431.8
+    },
+    {
+      "item": 1,
+      "spec": 68,
+      "total": 510.9
+    },
+    {
+      "item": 1,
+      "spec": 165,
+      "total": 469.1
+    },
+    {
+      "item": 1,
+      "spec": 81,
+      "total": 369.3
+    },
+    {
+      "item": 1,
+      "spec": 28,
+      "total": 509.1
+    },
+    {
+      "item": 1,
+      "spec": 172,
+      "total": 246.4
+    },
+    {
+      "item": 1,
+      "spec": 201,
+      "total": 436.4
+    },
+    {
+      "item": 1,
+      "spec": 69,
+      "total": 175.20000000000002
+    },
+    {
+      "item": 1,
+      "spec": 90,
+      "total": 44.9
+    },
+    {
+      "item": 1,
+      "spec": 217,
+      "total": 322.9
+    },
+    {
+      "item": 1,
+      "spec": 124,
+      "total": 309.59999999999997
+    },
+    {
+      "item": 1,
+      "spec": 114,
+      "total": 239.9
+    },
+    {
+      "item": 1,
+      "spec": 98,
+      "total": 221.70000000000002
+    },
+    {
+      "item": 1,
+      "spec": 41,
+      "total": 427.5
+    },
+    {
+      "item": 1,
+      "spec": 105,
+      "total": 202.3
+    },
+    {
+      "item": 1,
+      "spec": 113,
+      "total": 358.9
+    },
+    {
+      "item": 1,
+      "spec": 144,
+      "total": 499.0
+    },
+    {
+      "item": 1,
+      "spec": 85,
+      "total": 302.2
+    },
+    {
+      "item": 1,
+      "spec": 206,
+      "total": 408.6
+    },
+    {
+      "item": 1,
+      "spec": 142,
+      "total": 477.0
+    },
+    {
+      "item": 1,
+      "spec": 106,
+      "total": 157.6
+    },
+    {
+      "item": 1,
+      "spec": 39,
+      "total": 421.2
+    },
+    {
+      "item": 1,
+      "spec": 177,
+      "total": 465.6
+    },
+    {
+      "item": 1,
+      "spec": 90,
+      "total": 160.6
+    },
+    {
+      "item": 1,
+      "spec": 155,
+      "total": 328.8
+    },
+    {
+      "item": 1,
+      "spec": 18,
+      "total": 489.8
+    },
+    {
+      "item": 1,
+      "spec": 31,
+      "total": 520.3000000000001
+    },
+    {
+      "item": 1,
+      "spec": 56,
+      "total": 522.5
+    },
+    {
+      "item": 1,
+      "spec": 38,
+      "total": 378.2
+    },
+    {
+      "item": 1,
+      "spec": 70,
+      "total": 268.3
+    },
+    {
+      "item": 1,
+      "spec": 215,
+      "total": 203.70000000000002
+    },
+    {
+      "item": 1,
+      "spec": 182,
+      "total": 85.4
+    },
+    {
+      "item": 1,
+      "spec": 216,
+      "total": 363.8
+    },
+    {
+      "item": 1,
+      "spec": 163,
+      "total": 64.0
+    },
+    {
+      "item": 1,
+      "spec": 68,
+      "total": 129.0
+    },
+    {
+      "item": 1,
+      "spec": 22,
+      "total": 391.0
+    },
+    {
+      "item": 1,
+      "spec": 150,
+      "total": 292.9
+    },
+    {
+      "item": 1,
+      "spec": 24,
+      "total": 106.6
+    },
+    {
+      "item": 1,
+      "spec": 122,
+      "total": 60.5
+    },
+    {
+      "item": 1,
+      "spec": 135,
+      "total": 260.8
+    },
+    {
+      "item": 1,
+      "spec": 38,
+      "total": 294.5
+    },
+    {
+      "item": 1,
+      "spec": 212,
+      "total": 230.20000000000002
+    },
+    {
+      "item": 1,
+      "spec": 66,
+      "total": 298.09999999999997
+    },
+    {
+      "item": 1,
+      "spec": 47,
+      "total": 223.70000000000002
+    },
+    {
+      "item": 1,
+      "spec": 22,
+      "total": 407.1
+    },
+    {
+      "item": 1,
+      "spec": 142,
+      "total": 438.8
+    },
+    {
+      "item": 1,
+      "spec": 216,
+      "total": 41.199999999999996
+    },
+    {
+      "item": 1,
+      "spec": 45,
+      "total": 252.50000000000003
+    },
+    {
+      "item": 1,
+      "spec": 121,
+      "total": 241.3
+    },
+    {
+      "item": 1,
+      "spec": 201,
+      "total": 537.4
+    },
+    {
+      "item": 1,
+      "spec": 99,
+      "total": 495.6
+    },
+    {
+      "item": 1,
+      "spec": 206,
+      "total": 331.2
+    },
+    {
+      "item": 1,
+      "spec": 154,
+      "total": 287.5
+    },
+    {
+      "item": 1,
+      "spec": 62,
+      "total": 319.09999999999997
+    },
+    {
+      "item": 1,
+      "spec": 83,
+      "total": 445.1
+    },
+    {
+      "item": 1,
+      "spec": 68,
+      "total": 79.0
+    },
+    {
+      "item": 1,
+      "spec": 34,
+      "total": 270.8
+    },
+    {
+      "item": 1,
+      "spec": 86,
+      "total": 330.59999999999997
+    },
+    {
+      "item": 1,
+      "spec": 199,
+      "total": 388.5
+    },
+    {
+      "item": 1,
+      "spec": 111,
+      "total": 163.8
+    },
+    {
+      "item": 1,
+      "spec": 25,
+      "total": 343.09999999999997
+    },
+    {
+      "item": 1,
+      "spec": 23,
+      "total": 417.8
+    },
+    {
+      "item": 1,
+      "spec": 200,
+      "total": 470.2
+    },
+    {
+      "item": 1,
+      "spec": 143,
+      "total": 442.6
+    },
+    {
+      "item": 1,
+      "spec": 138,
+      "total": 133.0
+    },
+    {
+      "item": 1,
+      "spec": 176,
+      "total": 292.1
+    },
+    {
+      "item": 1,
+      "spec": 187,
+      "total": 205.3
+    },
+    {
+      "item": 1,
+      "spec": 199,
+      "total": 482.5
+    },
+    {
+      "item": 1,
+      "spec": 40,
+      "total": 330.8
+    },
+    {
+      "item": 1,
+      "spec": 20,
+      "total": 285.1
+    },
+    {
+      "item": 1,
+      "spec": 184,
+      "total": 431.0
+    },
+    {
+      "item": 1,
+      "spec": 208,
+      "total": 90.0
+    },
+    {
+      "item": 1,
+      "spec": 80,
+      "total": 66.2
+    },
+    {
+      "item": 1,
+      "spec": 209,
+      "total": 163.9
+    },
+    {
+      "item": 1,
+      "spec": 190,
+      "total": 207.10000000000002
+    },
+    {
+      "item": 1,
+      "spec": 152,
+      "total": 241.70000000000002
+    },
+    {
+      "item": 1,
+      "spec": 201,
+      "total": 524.6
+    },
+    {
+      "item": 1,
+      "spec": 101,
+      "total": 383.3
+    },
+    {
+      "item": 1,
+      "spec": 195,
+      "total": 105.6
+    },
+    {
+      "item": 1,
+      "spec": 162,
+      "total": 369.4
+    },
+    {
+      "item": 1,
+      "spec": 90,
+      "total": 443.1
+    },
+    {
+      "item": 1,
+      "spec": 156,
+      "total": 385.1
+    },
+    {
+      "item": 1,
+      "spec": 183,
+      "total": 122.80000000000001
+    },
+    {
+      "item": 1,
+      "spec": 218,
+      "total": 506.6
+    },
+    {
+      "item": 1,
+      "spec": 148,
+      "total": 57.599999999999994
+    },
+    {
+      "item": 1,
+      "spec": 180,
+      "total": 370.6
+    },
+    {
+      "item": 1,
+      "spec": 77,
+      "total": 154.0
+    },
+    {
+      "item": 1,
+      "spec": 73,
+      "total": 401.1
+    },
+    {
+      "item": 1,
+      "spec": 149,
+      "total": 524.0
+    },
+    {
+      "item": 1,
+      "spec": 138,
+      "total": 226.50000000000003
+    },
+    {
+      "item": 1,
+      "spec": 107,
+      "total": 392.6
+    },
+    {
+      "item": 1,
+      "spec": 149,
+      "total": 275.5
+    },
+    {
+      "item": 1,
+      "spec": 48,
+      "total": 202.4
+    },
+    {
+      "item": 1,
+      "spec": 38,
+      "total": 349.5
+    },
+    {
+      "item": 1,
+      "spec": 99,
+      "total": 524.1
+    },
+    {
+      "item": 1,
+      "spec": 161,
+      "total": 374.9
+    },
+    {
+      "item": 1,
+      "spec": 84,
+      "total": 177.70000000000002
+    },
+    {
+      "item": 1,
+      "spec": 130,
+      "total": 143.4
+    },
+    {
+      "item": 1,
+      "spec": 162,
+      "total": 269.1
+    },
+    {
+      "item": 1,
+      "spec": 200,
+      "total": 336.8
+    },
+    {
+      "item": 1,
+      "spec": 140,
+      "total": 74.7
+    },
+    {
+      "item": 1,
+      "spec": 196,
+      "total": 224.60000000000002
+    },
+    {
+      "item": 1,
+      "spec": 18,
+      "total": 275.5
+    },
+    {
+      "item": 1,
+      "spec": 158,
+      "total": 264.3
+    },
+    {
+      "item": 1,
+      "spec": 47,
+      "total": 262.0
+    },
+    {
+      "item": 1,
+      "spec": 133,
+      "total": 81.5
+    },
+    {
+      "item": 1,
+      "spec": 27,
+      "total": 363.0
+    },
+    {
+      "item": 1,
+      "spec": 109,
+      "total": 239.10000000000002
+    },
+    {
+      "item": 1,
+      "spec": 66,
+      "total": 372.5
+    },
+    {
+      "item": 1,
+      "spec": 137,
+      "total": 478.3
+    },
+    {
+      "item": 1,
+      "spec": 170,
+      "total": 391.4
+    },
+    {
+      "item": 1,
+      "spec": 114,
+      "total": 405.9
+    },
+    {
+      "item": 1,
+      "spec": 26,
+      "total": 279.7
+    },
+    {
+      "item": 1,
+      "spec": 143,
+      "total": 121.6
+    },
+    {
+      "item": 1,
+      "spec": 85,
+      "total": 358.8
+    },
+    {
+      "item": 1,
+      "spec": 179,
+      "total": 391.6
+    },
+    {
+      "item": 1,
+      "spec": 182,
+      "total": 51.7
+    },
+    {
+      "item": 1,
+      "spec": 103,
+      "total": 66.3
+    },
+    {
+      "item": 1,
+      "spec": 27,
+      "total": 513.0
+    },
+    {
+      "item": 1,
+      "spec": 207,
+      "total": 517.4
+    },
+    {
+      "item": 1,
+      "spec": 103,
+      "total": 456.6
+    },
+    {
+      "item": 1,
+      "spec": 30,
+      "total": 452.9
+    },
+    {
+      "item": 1,
+      "spec": 174,
+      "total": 298.59999999999997
+    },
+    {
+      "item": 1,
+      "spec": 155,
+      "total": 351.6
+    },
+    {
+      "item": 1,
+      "spec": 148,
+      "total": 106.0
+    },
+    {
+      "item": 1,
+      "spec": 118,
+      "total": 320.3
+    },
+    {
+      "item": 1,
+      "spec": 137,
+      "total": 384.2
+    },
+    {
+      "item": 1,
+      "spec": 101,
+      "total": 229.60000000000002
+    },
+    {
+      "item": 1,
+      "spec": 55,
+      "total": 249.8
+    },
+    {
+      "item": 1,
+      "spec": 191,
+      "total": 537.1
+    },
+    {
+      "item": 1,
+      "spec": 122,
+      "total": 380.4
+    },
+    {
+      "item": 1,
+      "spec": 184,
+      "total": 463.1
+    },
+    {
+      "item": 1,
+      "spec": 78,
+      "total": 84.80000000000001
+    },
+    {
+      "item": 1,
+      "spec": 15,
+      "total": 277.7
+    },
+    {
+      "item": 1,
+      "spec": 29,
+      "total": 338.0
+    },
+    {
+      "item": 1,
+      "spec": 163,
+      "total": 186.60000000000002
+    },
+    {
+      "item": 1,
+      "spec": 124,
+      "total": 251.9
+    },
+    {
+      "item": 1,
+      "spec": 161,
+      "total": 284.9
+    },
+    {
+      "item": 1,
+      "spec": 170,
+      "total": 154.20000000000002
+    },
+    {
+      "item": 1,
+      "spec": 128,
+      "total": 453.4
+    },
+    {
+      "item": 1,
+      "spec": 103,
+      "total": 44.0
+    },
+    {
+      "item": 1,
+      "spec": 155,
+      "total": 411.4
+    },
+    {
+      "item": 1,
+      "spec": 97,
+      "total": 177.0
+    },
+    {
+      "item": 1,
+      "spec": 29,
+      "total": 134.9
+    },
+    {
+      "item": 1,
+      "spec": 143,
+      "total": 378.1
+    },
+    {
+      "item": 1,
+      "spec": 49,
+      "total": 115.6
+    },
+    {
+      "item": 1,
+      "spec": 199,
+      "total": 287.4
+    },
+    {
+      "item": 1,
+      "spec": 20,
+      "total": 197.60000000000002
+    },
+    {
+      "item": 1,
+      "spec": 127,
+      "total": 354.0
+    },
+    {
+      "item": 1,
+      "spec": 33,
+      "total": 373.1
+    },
+    {
+      "item": 1,
+      "spec": 37,
+      "total": 41.0
+    },
+    {
+      "item": 1,
+      "spec": 85,
+      "total": 333.8
+    },
+    {
+      "item": 1,
+      "spec": 113,
+      "total": 87.6
+    },
+    {
+      "item": 1,
+      "spec": 123,
+      "total": 425.0
+    },
+    {
+      "item": 1,
+      "spec": 216,
+      "total": 355.9
+    },
+    {
+      "item": 1,
+      "spec": 167,
+      "total": 101.2
+    },
+    {
+      "item": 1,
+      "spec": 26,
+      "total": 467.0
+    },
+    {
+      "item": 1,
+      "spec": 146,
+      "total": 288.6
+    },
+    {
+      "item": 1,
+      "spec": 136,
+      "total": 148.8
+    },
+    {
+      "item": 1,
+      "spec": 124,
+      "total": 378.4
+    },
+    {
+      "item": 1,
+      "spec": 190,
+      "total": 223.10000000000002
+    },
+    {
+      "item": 1,
+      "spec": 74,
+      "total": 57.3
+    },
+    {
+      "item": 1,
+      "spec": 74,
+      "total": 72.9
+    },
+    {
+      "item": 1,
+      "spec": 152,
+      "total": 435.9
+    },
+    {
+      "item": 1,
+      "spec": 135,
+      "total": 154.6
+    },
+    {
+      "item": 1,
+      "spec": 113,
+      "total": 169.3
+    },
+    {
+      "item": 1,
+      "spec": 63,
+      "total": 58.2
+    },
+    {
+      "item": 1,
+      "spec": 127,
+      "total": 435.7
+    },
+    {
+      "item": 1,
+      "spec": 118,
+      "total": 207.4
+    },
+    {
+      "item": 1,
+      "spec": 128,
+      "total": 358.2
+    },
+    {
+      "item": 1,
+      "spec": 38,
+      "total": 533.4
+    },
+    {
+      "item": 1,
+      "spec": 101,
+      "total": 358.0
+    },
+    {
+      "item": 1,
+      "spec": 116,
+      "total": 528.6
+    },
+    {
+      "item": 1,
+      "spec": 124,
+      "total": 177.5
+    },
+    {
+      "item": 1,
+      "spec": 31,
+      "total": 215.10000000000002
+    },
+    {
+      "item": 1,
+      "spec": 196,
+      "total": 297.3
+    },
+    {
+      "item": 1,
+      "spec": 179,
+      "total": 212.10000000000002
+    },
+    {
+      "item": 1,
+      "spec": 175,
+      "total": 146.4
+    },
+    {
+      "item": 1,
+      "spec": 98,
+      "total": 187.8
+    },
+    {
+      "item": 1,
+      "spec": 186,
+      "total": 211.10000000000002
+    },
+    {
+      "item": 1,
+      "spec": 137,
+      "total": 261.4
+    },
+    {
+      "item": 1,
+      "spec": 174,
+      "total": 480.2
+    },
+    {
+      "item": 1,
+      "spec": 182,
+      "total": 520.8000000000001
+    },
+    {
+      "item": 1,
+      "spec": 150,
+      "total": 491.9
+    },
+    {
+      "item": 1,
+      "spec": 188,
+      "total": 96.1
+    },
+    {
+      "item": 1,
+      "spec": 96,
+      "total": 58.2
+    },
+    {
+      "item": 1,
+      "spec": 96,
+      "total": 238.20000000000002
+    },
+    {
+      "item": 1,
+      "spec": 112,
+      "total": 330.5
+    },
+    {
+      "item": 1,
+      "spec": 116,
+      "total": 271.7
+    },
+    {
+      "item": 1,
+      "spec": 77,
+      "total": 465.7
+    },
+    {
+      "item": 1,
+      "spec": 198,
+      "total": 367.7
+    },
+    {
+      "item": 1,
+      "spec": 158,
+      "total": 387.4
+    },
+    {
+      "item": 1,
+      "spec": 116,
+      "total": 481.3
+    },
+    {
+      "item": 1,
+      "spec": 120,
+      "total": 45.3
+    },
+    {
+      "item": 1,
+      "spec": 76,
+      "total": 251.20000000000002
+    },
+    {
+      "item": 1,
+      "spec": 179,
+      "total": 531.5
+    },
+    {
+      "item": 1,
+      "spec": 119,
+      "total": 301.8
+    },
+    {
+      "item": 1,
+      "spec": 79,
+      "total": 212.9
+    },
+    {
+      "item": 1,
+      "spec": 109,
+      "total": 167.20000000000002
+    },
+    {
+      "item": 1,
+      "spec": 77,
+      "total": 82.7
+    },
+    {
+      "item": 1,
+      "spec": 68,
+      "total": 354.6
+    },
+    {
+      "item": 1,
+      "spec": 147,
+      "total": 472.1
+    },
+    {
+      "item": 1,
+      "spec": 211,
+      "total": 391.1
+    },
+    {
+      "item": 1,
+      "spec": 166,
+      "total": 81.1
+    },
+    {
+      "item": 1,
+      "spec": 58,
+      "total": 182.20000000000002
+    },
+    {
+      "item": 1,
+      "spec": 41,
+      "total": 511.1
+    },
+    {
+      "item": 1,
+      "spec": 16,
+      "total": 370.6
+    },
+    {
+      "item": 1,
+      "spec": 203,
+      "total": 409.7
+    },
+    {
+      "item": 1,
+      "spec": 206,
+      "total": 429.0
+    },
+    {
+      "item": 1,
+      "spec": 42,
+      "total": 110.6
+    },
+    {
+      "item": 1,
+      "spec": 23,
+      "total": 337.5
+    },
+    {
+      "item": 1,
+      "spec": 102,
+      "total": 206.70000000000002
+    },
+    {
+      "item": 1,
+      "spec": 68,
+      "total": 266.8
+    },
+    {
+      "item": 1,
+      "spec": 49,
+      "total": 372.7
+    },
+    {
+      "item": 1,
+      "spec": 168,
+      "total": 428.2
+    },
+    {
+      "item": 1,
+      "spec": 32,
+      "total": 79.9
+    },
+    {
+      "item": 1,
+      "spec": 197,
+      "total": 464.3
+    },
+    {
+      "item": 1,
+      "spec": 50,
+      "total": 407.0
+    },
+    {
+      "item": 1,
+      "spec": 66,
+      "total": 147.4
+    },
+    {
+      "item": 1,
+      "spec": 172,
+      "total": 450.6
+    },
+    {
+      "item": 1,
+      "spec": 75,
+      "total": 290.2
+    },
+    {
+      "item": 1,
+      "spec": 181,
+      "total": 244.70000000000002
+    },
+    {
+      "item": 1,
+      "spec": 209,
+      "total": 467.3
+    },
+    {
+      "item": 1,
+      "spec": 164,
+      "total": 135.8
+    },
+    {
+      "item": 1,
+      "spec": 188,
+      "total": 155.4
+    },
+    {
+      "item": 1,
+      "spec": 70,
+      "total": 380.5
+    },
+    {
+      "item": 1,
+      "spec": 159,
+      "total": 447.3
+    },
+    {
+      "item": 1,
+      "spec": 110,
+      "total": 518.0
+    },
+    {
+      "item": 1,
+      "spec": 23,
+      "total": 255.8
+    },
+    {
+      "item": 1,
+      "spec": 162,
+      "total": 45.9
+    },
+    {
+      "item": 1,
+      "spec": 171,
+      "total": 66.5
+    },
+    {
+      "item": 1,
+      "spec": 89,
+      "total": 355.3
+    },
+    {
+      "item": 1,
+      "spec": 32,
+      "total": 332.59999999999997
+    },
+    {
+      "item": 1,
+      "spec": 78,
+      "total": 334.7
+    },
+    {
+      "item": 1,
+      "spec": 51,
+      "total": 187.70000000000002
+    },
+    {
+      "item": 1,
+      "spec": 218,
+      "total": 400.6
+    },
+    {
+      "item": 1,
+      "spec": 187,
+      "total": 77.1
+    },
+    {
+      "item": 1,
+      "spec": 58,
+      "total": 349.4
+    },
+    {
+      "item": 1,
+      "spec": 152,
+      "total": 94.2
+    },
+    {
+      "item": 1,
+      "spec": 78,
+      "total": 55.1
+    },
+    {
+      "item": 1,
+      "spec": 175,
+      "total": 315.0
+    },
+    {
+      "item": 1,
+      "spec": 150,
+      "total": 320.3
+    },
+    {
+      "item": 1,
+      "spec": 104,
+      "total": 260.5
+    },
+    {
+      "item": 1,
+      "spec": 185,
+      "total": 381.8
+    },
+    {
+      "item": 1,
+      "spec": 36,
+      "total": 394.4
+    },
+    {
+      "item": 1,
+      "spec": 98,
+      "total": 194.60000000000002
+    },
+    {
+      "item": 1,
+      "spec": 148,
+      "total": 206.4
+    },
+    {
+      "item": 1,
+      "spec": 160,
+      "total": 359.4
+    },
+    {
+      "item": 1,
+      "spec": 171,
+      "total": 409.5
+    },
+    {
+      "item": 1,
+      "spec": 93,
+      "total": 110.1
+    },
+    {
+      "item": 1,
+      "spec": 180,
+      "total": 43.4
+    },
+    {
+      "item": 1,
+      "spec": 173,
+      "total": 220.3
+    },
+    {
+      "item": 1,
+      "spec": 203,
+      "total": 59.9
+    },
+    {
+      "item": 1,
+      "spec": 104,
+      "total": 233.10000000000002
+    },
+    {
+      "item": 1,
+      "spec": 94,
+      "total": 250.4
+    },
+    {
+      "item": 1,
+      "spec": 215,
+      "total": 271.0
+    },
+    {
+      "item": 1,
+      "spec": 121,
+      "total": 132.5
+    },
+    {
+      "item": 1,
+      "spec": 64,
+      "total": 195.70000000000002
+    },
+    {
+      "item": 1,
+      "spec": 147,
+      "total": 358.7
+    },
+    {
+      "item": 1,
+      "spec": 98,
+      "total": 458.8
+    },
+    {
+      "item": 1,
+      "spec": 209,
+      "total": 108.69999999999999
+    },
+    {
+      "item": 1,
+      "spec": 180,
+      "total": 511.3
+    },
+    {
+      "item": 1,
+      "spec": 133,
+      "total": 424.1
+    },
+    {
+      "item": 1,
+      "spec": 59,
+      "total": 535.3000000000001
+    },
+    {
+      "item": 1,
+      "spec": 198,
+      "total": 64.2
+    },
+    {
+      "item": 1,
+      "spec": 107,
+      "total": 125.1
+    },
+    {
+      "item": 1,
+      "spec": 210,
+      "total": 224.20000000000002
+    },
+    {
+      "item": 1,
+      "spec": 217,
+      "total": 170.70000000000002
+    },
+    {
+      "item": 1,
+      "spec": 171,
+      "total": 295.0
+    },
+    {
+      "item": 1,
+      "spec": 177,
+      "total": 276.0
+    },
+    {
+      "item": 1,
+      "spec": 199,
+      "total": 534.1
+    },
+    {
+      "item": 1,
+      "spec": 104,
+      "total": 404.9
+    },
+    {
+      "item": 1,
+      "spec": 165,
+      "total": 295.7
+    },
+    {
+      "item": 1,
+      "spec": 90,
+      "total": 401.4
+    },
+    {
+      "item": 1,
+      "spec": 211,
+      "total": 457.4
+    },
+    {
+      "item": 1,
+      "spec": 129,
+      "total": 351.9
+    },
+    {
+      "item": 1,
+      "spec": 35,
+      "total": 297.9
+    },
+    {
+      "item": 1,
+      "spec": 124,
+      "total": 453.1
+    },
+    {
+      "item": 1,
+      "spec": 56,
+      "total": 107.0
+    }
+  ]
+}

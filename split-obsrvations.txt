@@ -1,0 +1,4 @@
+fungerar ej på listor(atribute error)
+split fungerar ej vid 'empty separator' ('')(value error
+name error, sakanar variable
+typ error, fel sakanar sträng.
