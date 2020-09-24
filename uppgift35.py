@@ -23,27 +23,32 @@ class QuizzWebServiceAPI(object):
         r = requests.post(url=self.url, json= data)
         return True if r.status_code == 200 else False
 
-if __name__ == '__main__':
+
+def run():
     frågor = QuizzWebServiceAPI()
     List = frågor.get_all_questions()
     Lista = []
     for question in List:
-        #print(question['prompt'])
+        # print(question['prompt'])
         Lista.append(question['prompt'])
-while True:
-    print(f"det finns {len(Lista)} frågor i Quizz-db")
-    print("1: Gör en fråga.")
-    print("2: Avsluta.")
-    do = input(">>")
+    while True:
+        print(f"det finns {len(Lista)} frågor i Quizz-db")
+        print("1: Gör en fråga.")
+        print("2: Avsluta.")
+        do = input(">>")
 
-    if do == '1':
-        prompt = input("Skriv din fråga:")
-        answer = input("Skriv rätt svar:")
-        altern = input("Skriv felaktigt alternativ, skilj vid komma.").split(',')
+        if do == '1':
+            prompt = input("Skriv din fråga:")
+            answer = input("Skriv rätt svar:")
+            altern = input("Skriv felaktigt alternativ, skilj vid komma.").split(',')
 
-        frågor.add_question(prompt,answer,altern)
+            frågor.add_question(prompt, answer, altern)
 
-    else:
-        print("----")
-        print("Avslutar!")
-        break
+        else:
+            print("----")
+            print("Avslutar!")
+            break
+
+
+if __name__ == '__main__':
+    run()
