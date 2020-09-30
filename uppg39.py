@@ -1,4 +1,4 @@
-def add(a,b,c):
+def max(a,b,c):
     biggest = a
     if biggest < b:
         biggest = b
@@ -23,7 +23,7 @@ def main():
     b = 2
     c = 3
 
-    print(add(a,b,c))
+    print(max(a,b,c))
     print(num_sum([a,b,c]))
     print(num_prod([1,2,3,4,5]))
 

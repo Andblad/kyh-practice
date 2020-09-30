@@ -2,5 +2,15 @@
   "test_conversion.py::test_cm_to_m",
   "test_conversion.py::test_conversion_from_meters_to_mm",
   "test_conversion.py::test_farenhite_to_cellsius",
-  "test_conversion.py::test_mm_to_m"
+  "test_conversion.py::test_mm_to_m",
+  "test_uppg39.py::test_max",
+  "test_uppg39.py::test_max_return_biggest_value",
+  "test_uppg39.py::test_max_return_biggest_value_if_a",
+  "test_uppg39.py::test_max_return_biggest_value_if_b",
+  "test_uppg39.py::test_max_return_biggest_value_if_c",
+  "test_uppg39.py::test_num_prod",
+  "test_uppg39.py::test_num_sum",
+  "test_uppg40.py::test_bak",
+  "test_uppg40.py::test_bak_blank",
+  "test_uppg40.py::test_versal"
 ]
