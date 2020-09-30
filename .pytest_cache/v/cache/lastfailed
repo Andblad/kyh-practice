@@ -1,3 +1,4 @@
 {
-  "test_conversion.py": true
+  "test_conversion.py": true,
+  "test_uppg39.py::test_max_return_biggest_value": true
 }
