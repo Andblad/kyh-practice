@@ -1,0 +1,5 @@
+'''
+rad 34: kallar på metoden i klassen dog, som ligger i variablen hund. Make_sound printar ut namet som matats in till variablen, och metoden printar sedan namn(object) och texten Woff!
+35: kallar på metoden make_trick i klassen dog, som ligger i variablen hund. make_trick tar och slumpar ut ett index utr listan tricks, och printar det till sammans med objecktet.
+36: lagrar vi anropet på klassen Cat, med objekt Cecilia, så att vi lättare kommer åt metoderna senare.
+'''
