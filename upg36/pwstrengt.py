@@ -2,6 +2,8 @@ def compute_strength(pw):
     count = 0
     legit = '#%&+_-'
 
+
+
     if len(pw) > 10:
         count += 1
 
@@ -12,6 +14,8 @@ def compute_strength(pw):
     if any(char in legit for char in pw):
              count += 1
 
-    else:
-        pass
+    if any( not char.isalnum() and char not in legit for char in pw):
+        count = 0
+        print("Ogiltligt")
+
     return count

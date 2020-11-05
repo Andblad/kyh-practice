@@ -23,3 +23,4 @@ def test_password_lenght_and_alphanumeric_2_point():
 def test_password_lenght_and_alphanumeric_sign_3_point():
     pw = 'ac1#' * 6
     assert compute_strength(pw) == 3
+
